@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Doug Rosman's Teaching Material
+draft: false
 ---
 
 This is a blank Quartz installation.
