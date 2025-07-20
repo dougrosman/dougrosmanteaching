@@ -3,7 +3,15 @@ title: Doug Rosman's Teaching Material
 draft: false
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Fall 2025
 
-hello! more!
+### Artificial Intelligence
+
+- [[week1|Week 1]]
+
+### Interactive Art and Creative Code
+
+---
+
+
+This site is written in Markdown using Obsidian, built with Quartz, hosted on Netlify by way of GitHub. See the [documentation](https://quartz.jzhao.xyz) for how to get started.
