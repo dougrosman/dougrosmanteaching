@@ -14,4 +14,6 @@ draft: false
 ---
 Sooo what do we do?
 
+I don't know, you tell me.
+
 This site is written in Markdown using Obsidian, built with Quartz, hosted on Netlify by way of GitHub. See the [documentation](https://quartz.jzhao.xyz) for how to get started.
