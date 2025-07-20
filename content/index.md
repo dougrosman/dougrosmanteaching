@@ -18,4 +18,6 @@ Ok, let's try this again
 
 now with a regular push
 
+now adding with a sync
+
 This site is written in Markdown using Obsidian, built with Quartz, hosted on Netlify by way of GitHub. See the [documentation](https://quartz.jzhao.xyz) for how to get started.
