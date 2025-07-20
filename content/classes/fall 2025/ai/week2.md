@@ -1,7 +1,7 @@
 ---
-title: Week 1 - 08/28/2025
+title: Week 2 - 09/04/2025
 draft: false
-description: Introductions
+description: Week 2
 ---
 ## Summary
 
