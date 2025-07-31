@@ -1,5 +1,5 @@
 ---
-title: ATSP 4144 - Artificial Intelligence
+title: ATSP 4022 - Artificial Intelligence
 draft: false
 description:
 ---
