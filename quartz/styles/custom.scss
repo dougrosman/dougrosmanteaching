@@ -1,3 +1,7 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+ul.content li {
+    margin-block: .5em;
+}
