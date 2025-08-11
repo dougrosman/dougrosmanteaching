@@ -1,5 +1,5 @@
 ---
-title: Week 1 - 08/28/2025 - Introductions
+title: Week 1 - 08/28/2025
 draft: false
 description: Introductions
 ---
