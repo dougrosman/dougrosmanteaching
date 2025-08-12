@@ -124,107 +124,34 @@ What do we do while we wait for our videos to generate?
 
 ##  01 - 08/28 - Introductions, what is AI?
 
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
-
 ##  02 - 09/04 -
-
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
 
 ##  03 - 09/11 -
 
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
-
 ##  04 - 09/18 -
 
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
-
 ##  05 - 09/25 -
-
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
-
+"midterm 1" (image and video)
 ##  06 - 10/02 -
-
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
 
 ##  07 - 10/09 -
 
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
-
 ##  08 - 10/16 -
 
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
-
 ##  09 - 10/23 -
-
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
+substitute (rehearsing with judd + aviva)
 
 ##  10 - 10/30 -
+"midterm 2" (llms, vibe coding, etc.)
 
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
-
-##  11 - 11/06 -
-
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
+##  11 - 11/06 - 
+final project proposal assigned
 
 ##  12 - 11/13 -
-
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
-
+final project proposal presentations
+open studio time
 ##  13 - 11/20 -
-
-### In-class workshop
-
-### Creative assignment
-
-### Reading assignment
+open studio time
 
 ##  14 - 11/27 - Thanksgiving Break (No Class)  
 ##  15 - 12/04 - Critique Week (No Class)
