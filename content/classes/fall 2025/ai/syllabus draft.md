@@ -79,20 +79,7 @@ What do we do while we wait for our videos to generate?
 
 - 
 
-#### Assignments
 
-- Make a large scale AI image
-	- Generate --> upscale --> inpaint
-	- Generate --> outpaint
-- Collective image (everyone works on a single image, continually outpainting.)
-- Video exquisite corpse
-	- Everyone generate a video
-	- send that video to the next person
-	- use the last frame of that video to start the next video
-	- repeat until everyone has sent a video around.
-
-#### Workshops
-- Collective image making (during class, each person outpaints a single square at a time)
 
 ### Reference points // material to watch / read / listen to
 
@@ -121,35 +108,72 @@ What do we do while we wait for our videos to generate?
 - Melanie Mitchell's AI Guide for Thinking Humans
 - 
 
+#### Assignments
+
+- Make a large scale AI image
+	- Generate --> upscale --> inpaint
+	- Generate --> outpaint
+- Collective image (everyone works on a single image, continually outpainting.)
+- Video exquisite corpse
+	- Everyone generate a video
+	- send that video to the next person
+	- use the last frame of that video to start the next video
+	- repeat until everyone has sent a video around.
+
+#### Workshops
+- Collective image making (during class, each person outpaints a single square at a time)
+- controlnet assignment (workshop that prioritizes input images) (images as material)
+	- do one for each controlnet? multi-controlnet?
+- everyone starts from the same image, create a video from that image
+- 
+- everyone come up with an abstract question to ask an AI (is pizza a soup, salad or steak?)
+- make a personal avatar
+	- lip sync video
+	- voice clone
+	- use input writing from person to dictate style
+		- come up with a 50-question questionnaire to help create input text (ask AI to do it for you)
+
+#### Recurring assignments
+
+- slopTV
+- are.na page
+- readings
 
 ##  01 - 08/28 - Introductions, what is AI?
-
+introductions
+course overview
+history of AI image-making
+ComfyUI part 1 - the basics
 ##  02 - 09/04 -
-
+ComfyUI part 2 - controlnet, inpainting, outpainting, ipadapter, upscaling
+inpainting outpainting exquisite corpse
 ##  03 - 09/11 -
-
+ComfyUI part 3 - open source video (animatediff + controlnet, wan2.2)
+closed source video
 ##  04 - 09/18 -
-
+Gaussian Splatting + 3D scanning
+Open studio time
 ##  05 - 09/25 -
-"midterm 1" (image and video)
+"midterm 1" (image and video) presentations
 ##  06 - 10/02 -
-
+intro to touchdesigner + stream diffusion
 ##  07 - 10/09 -
-
+intro to LLMs
+intro to touchdesigner + lops
 ##  08 - 10/16 -
-
+vibe coding workshop
 ##  09 - 10/23 -
 substitute (rehearsing with judd + aviva)
-
+open studio time
 ##  10 - 10/30 -
-"midterm 2" (llms, vibe coding, etc.)
-
+"midterm 2" (llms, vibe coding, etc.) presentations
 ##  11 - 11/06 - 
 final project proposal assigned
-
+visiting artist?
 ##  12 - 11/13 -
 final project proposal presentations
 open studio time
+visiting artist?
 ##  13 - 11/20 -
 open studio time
 
