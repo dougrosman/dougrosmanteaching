@@ -3,9 +3,10 @@ title: Syllabus
 draft: true
 description: ATSP 3135 Syllabus
 ---
-**Course Title:** AI
+**Course Title:** Interactive Art and Creative Coding
 **Semester:** Fall 2025
 **Catalog Number:** 3135 | **Class Number:** 1124 | **Section:** 001 | **Credits:** 3
+**Prerequisite:** ATSP 2101 or permission of instructor
 **Location:** MacLean 401
 **Time:** Wednesdays, 9am-3pm (August 27-December 10)
 
