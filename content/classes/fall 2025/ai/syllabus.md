@@ -38,42 +38,42 @@ AI tools are inherently unpredictable, and the outputs of these models can somet
 
 ## Learning Goals
 
-- Working technical knowledge of machine learning and how AI systems function.
-- Proficiency in experimenting with a broad range of generative AI tools.
-- Critical understanding of the ways AI enters into and shapes culture and society, from environmental impacts and labor issues to how we relate to each other.
-- The ability to contextualize AI-generated material within one's own practice and within the broader art world.
+*At the end of this course, students will...*
 
+- Attain a high-level understanding of AI as an assemblage of technical systems and ideas, and be able use that knowledge to work critically with AI as a tool, a material, and a context
+- Develop a vocabulary around these rapidly evolving technologies in order to effectively contextualize the use of AI in their work.
+- Gain comfort in utilizing both closed and open source AI tools to explore media synthesis including but not limited to image, video, audio, text, and code generation.
+- Develop a historical understanding of the social and cultural impacts of AI, including the conditions that foster its development, and the ways it shapes our world.
 ## Student Learning Outcomes
 
-- 1. STUDIO SKILLS Demonstrate a safe and advanced technical skill in their use of materials, including specialized, unique, or unusual tools and techniques in relation to (discipline/department/course name).
-- 2. MATERIAL EXPLORATION, FORM AND CONTENT Select or develop well-researched material choices that enhance the content, quality and/or effectiveness of their creative/research inquiry. Demonstrates an advanced understanding of the relationship between form and content; sustainability/environmental impact. Adheres to safe practices with all materials.
-- 3. PRACTICE **Synthesize and integrate** advanced iterative working methods to conceptualize. **Develop** and **create** products/practices that demonstrate ambition, creativity and/or innovation; Individually or in collaboration.
-- 4. HISTORICAL AND/OR THEORETICAL CONTEXT **Demonstrate** an advanced contextual knowledge that integrates the histories and theories of _(discipline/department/course name)_ to inform their own practice.
-- 5. CREATIVE PRACTICE RESEARCH **Formulate** an independent research question; **demonstrate** advanced use of the concepts and principles of research to differentiate, evaluate, organize and analyze relevant information and resources; effectively **communicate** their discovery through conventional or unconventional means.
+*At the end of this course, students will...*
 
+- Demonstrate a safe and advanced technical skill in their use of materials, including specialized, unique, or unusual tools and techniques in relation to AI media synthesis and AI-assisted creative workflows.
+- Select well-researched material choices and technical approaches that are appropriate for the content, quality and/or effectiveness of their creative/research inquiry, understanding the nuances of different AI models, how they may or may not work together, and the environmental impact of their processes.
+- Synthesize and integrate advanced iterative working methods to conceptualize, develop and create products/practices that demonstrate ambition, creativity and/or innovation; individually or in collaboration.
+- Demonstrate an advanced contextual knowledge that integrates the histories and cultural narratives around AI to inform their own practice.
+- Synthesize interdisciplinary discourses, media, processes, and technologies in the practice of AI-influenced or AI-derived artistic production.
+- Advocate for inclusion and representation in artistic practice and intellectual discourse, taking particular care to acknowledge the outsize harms to specific demographics caused by AI technologies.
+- Present culminating work with clarity, creativity, and impact, and that demonstrates intentionality.
 
-# Classroom values
+## Classroom values
 
 - **Bring your full self to class**. AI is complex topic that affects all of us, we're all part of the discussion.
 - **Quantity over Quality** (or, more is more!)
 - **Sharing is caring!** This classroom is a community of folks figuring out these tools together in real-time. You are encouraged to share resources, workflows, trained models, thoughts, feelings, images, experiments. Anything!
-- **Shun mastery, embrace uncertainty!** Nobody in here is an experiment. The inner workings of AI tools are fundamentally unknowable to us, so embrace the chaos and just try things out. 
+- **Shun mastery, embrace uncertainty!** Everything in here is an experiment. The inner workings of AI tools are fundamentally unknowable to us, so embrace the chaos and just try things out. 
 
-# Receiving Credit for this Course
+## Receiving Credit for this Course
 
 - Complete a midterm project
 - Complete a final project
 - Contribute resources to the class Are.na page
 
-# Being on Time
+## Being on Time
 
 - Please arrive at 9:00am to give yourself time to settle in
 - Lectures will begin promptly at 9:05am
 - I take attendance at 9:05am. If you aren't here at that time, you will be marked late.
-
-# Classroom Policy on AI-generated Content
-
-:)
 
 # Course Materials
 

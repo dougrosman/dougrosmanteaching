@@ -57,13 +57,35 @@ AI–as a technology enmeshed within global capitalism–is a problematic entity
 
 AI tools are inherently unpredictable. Even the "experts" who train the AI models don't know exactly how a trained model knows what it knows. Because of this, the outputs of these models can sometimes be troubling, disturbing, and not safe for work. This is especially true with Open Source text to image models like Stable Diffusion. Open Source models can be run locally on our own computers, and are not subject to the content moderation that large companies like OpenAI use to restrict how you use tools like ChatGPT or Dall-E. With Stable Diffusion running locally, you may be more likely to encounter disturbing or problematic imagery, sometimes when you're not looking for it. We will discuss strategies for avoiding these outputs, while also embracing the open-ended nature of these Open Source models as a context less controlled by massive corporate entities (although those safeguards are often interesting in and of themselves.)
 
-# Learning Goals and Outcomes
+## Learning Goals
 
-- Working technical knowledge of machine learning and how AI systems function
-- Proficiency in experimenting with a broad range of generative AI tools.
-- Critical understanding of the ways AI enters into and shapes culture and society, from environmental impacts and labor issues to how we relate to each other.
-- The ability to contextualize AI-generated material within one's own practice and within the broader art world.
+*At the end of this course, students will...*
 
+- Attain a high-level understanding of AI as an assemblage of technical systems and ideas, and be able use that knowledge to work critically with AI as a tool, a material, and a context
+- Develop a vocabulary around these rapidly evolving technologies in order to effectively contextualize the use of AI in their work.
+- Gain comfort in utilizing both closed and open source AI tools to explore media synthesis including but not limited to image, video, audio, text, and code generation.
+- Develop a historical understanding of the social and cultural impacts of AI, including the conditions that foster its development, and the ways it shapes our world.
+## Student Learning Outcomes
+
+*At the end of this course, students will...*
+
+- Demonstrate a safe and advanced technical skill in their use of materials, including specialized, unique, or unusual tools and techniques in relation to AI media synthesis and AI-assisted creative workflows.
+- Select well-researched material choices and technical approaches that are appropriate for the content, quality and/or effectiveness of their creative/research inquiry, understanding the nuances of different AI models, how they may or may not work together, and the environmental impact of their processes.
+- Synthesize and integrate advanced iterative working methods to conceptualize, develop and create products/practices that demonstrate ambition, creativity and/or innovation; individually or in collaboration.
+- Demonstrate an advanced contextual knowledge that integrates the histories and cultural narratives around AI to inform their own practice.
+- Synthesize interdisciplinary discourses, media, processes, and technologies in the practice of AI-influenced or AI-derived artistic production.
+- Advocate for inclusion and representation in artistic practice and intellectual discourse, taking particular care to acknowledge the outsize harms to specific demographics by AI technologies.
+- Present culminating work with clarity, creativity, and impact, and that demonstrates intentionality.
+
+- 1. STUDIO SKILLS **Demonstrate** a safe and advanced technical skill in their use of materials, including specialized, unique, or unusual tools and techniques in relation to _(discipline/department/course name)_.
+- 2. MATERIAL EXPLORATION, FORM AND CONTENT **Select** **or develop** well-researched material choices that enhance the content, quality and/or effectiveness of their creative/research inquiry. **Demonstrates** an advanced understanding of the relationship between form and content; sustainability/environmental impact. Adheres to safe practices with all materials.
+- 3. PRACTICE **Synthesize and integrate** advanced iterative working methods to conceptualize. **Develop** and **create** products/practices that demonstrate ambition, creativity and/or innovation; Individually or in collaboration.
+- 4. HISTORICAL AND/OR THEORETICAL CONTEXT **Demonstrate** an advanced contextual knowledge that integrates the histories and theories of _(discipline/department/course name)_ to inform their own practice.
+- 5. CREATIVE PRACTICE RESEARCH **Formulate** an independent research question; **demonstrate** advanced use of the concepts and principles of research to differentiate, evaluate, organize and analyze relevant information and resources; effectively **communicate** their discovery through conventional or unconventional means.
+- 6. INTERDISCIPLINARY CONTEXT **Synthesize** interdisciplinary discourses, media, processes, technologies to the practice of discipline/department/course name to create innovative solutions or interpretations to a research question or creative practice.
+- 7. DIVERSE PERSPECTIVES **Advocates** for inclusion and representation in artistic practice and intellectual discourse. **Embodies** an openness and respect for the importance of diverse perspectives; actively **challenges** their own assumptions and biases.
+- 8. PRESENTATION ****Present**** culminating work with clarity, creativity, and impact. Work is well organized, clearly articulated and ****demonstrates intentionality**;** demonstrates consideration of audience; (when applicable) adheres to the guidelines or requirements of the space with autonomy and accountability.
+- 9. CRITIQUE **Fosters** a collaborative and supportive critique environment to critically engage in discussion/reflection with self regulation and awareness; be individually motivated to synthesize diverse feedback into practice for continued growth and improvement; Give informed and meaningful input to others with sensitivity to different points of view.
 # Classroom values
 
 - **Bring your full self to class**. AI is complex topic that affects all of us, we're all part of the discussion.
