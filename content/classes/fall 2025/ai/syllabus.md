@@ -18,7 +18,7 @@ description: ATSP 4144 Syllabus
 
 ****
 
-# Course Description
+## Course Description
 
 'Artificial Intelligence' (AI) has infiltrated many corners of our lives. Once used primarily to identify, track, and predict things in the world, AI–a convenient shorthand for machine learning–has now become generative: producing images, language, and anything else that can be parsed as data. Through a hands-on curriculum, students will explore AI tools to create images, video, audio and more, and will approach these AI systems as tools to augment a creative practice, as well as a medium and material in themselves. This course foregrounds experimentation and play as a means to develop a critical understanding of AI and the ethical implications of its use in creative production (and beyond), engaging in discourse around ideas of authenticity, authorship, and labor.
 
@@ -26,45 +26,31 @@ Ultimately, students will leave this class with a broad understanding of how AI 
 
 Students will work individually and collaboratively on smaller scale projects early in the semester, producing and sharing works each week. The course will culminate in a larger scale final project and critique. Students will also maintain a 'sketchbook' documenting their experiments and methods throughout the semester.
 
-# AI Baggage
+## AI Baggage
 
-AI–as a technology enmeshed within global capitalism–is a problematic entity. There are things that AI is responsible for that are often troubling and frequently outright deplorable. And yet, this is a fascinating and exciting new territory. I believe it is our job as artists to engage this complex socio-technical terrain with openness and playfulness, as well as criticality and skepticism. And so, while we are having fun experimenting with all these strange and curious new creative possibilities on offer, we will also acknowledge and contend with the many of the downsides, including, but not limited to:
+Working with "AI" may elicit what the artist Alan Warburton calls a "wonder-panic" response: a feeling of wonder for all of the strange and exciting possibilities of these tools, and panic when we confront the well-documented horrors inextricable from AI. How do we contend with using image-generating models trained on countless artists' stolen work? Or Large Language Models whose training depends on subjecting certain populations to traumatic work conditions? What about the environmental impact of these tools, or their use in surveillance, policing and warfare? How is our work as artists implicated in/complicated by these contexts?
 
-- Environmental impact
-- Labor issues (Jobs being automated, menial AI-jobs like Amazon's Mechanical Turk)
-- Content Moderation and Trauma
-- Misinformation / Disinformation / Dangerous AI hallucinations (Deadly AI-generated foraging guides)
-- Erosion of Trust (broadly)
-- Autonomous weapons / AI as an excuse to target individuals
-- Tech hype / bubbles
-- Enshitification / Dead Internet Theory / Facebook AI Slop / 
-- AI biases that reinforce stereotypes with a range a consequences
-- Privacy / consent / non-consensual deepfakes / CSAM
-- Data rights
-- Artists having their work scraped/work copied
-- AI art being passed off as non-AI art
-- "Art washing" (using art to help AI's positive reputation)
-- Cultural logic of computation (or, the problematics of thinking of our brains as literal computers)
-- AI ethics / neoliberal reform measures / HR-ification of models
-- Less Wrong rationalists / AI doomerism / Roko's Basilisk
-- Paperclip maximizer
-- Predictive policing / Facial Recognition
-- Superpowered Surveillance
-- AI relationships (romantic or otherwise)
-- Corporate monopolies (Nvidia, CUDA)
-- Autonomous agents + crypto
-- Many more!
+This class takes the position that it is crucial for artists to engage with these technologies with openness and playfulness, coupled with criticality and a healthy skepticism. "AI" is as much a tool as it is a material, and as with any art practice, it is the responsibility of the artist to consider the origin and use of their materials. It is my hope and intention that this classroom provide a safe and generative space to explore this wondrous and panic-inducing technology, so that we understand what is at stake when do.
 
-# AI Content Warning
+## AI Content Warning
 
-AI tools are inherently unpredictable. Even the "experts" who train the AI models don't know exactly how a trained model knows what it knows. Because of this, the outputs of these models can sometimes be troubling, disturbing, and not safe for work. This is especially true with Open Source text to image models like Stable Diffusion. Open Source models can be run locally on our own computers, and are not subject to the content moderation that large companies like OpenAI use to restrict how you use tools like ChatGPT or Dall-E. With Stable Diffusion running locally, you may be more likely to encounter disturbing or problematic imagery, sometimes when you're not looking for it. We will discuss strategies for avoiding these outputs, while also embracing the open-ended nature of these Open Source models as a context less controlled by massive corporate entities (although those safeguards are often interesting in and of themselves.)
+AI tools are inherently unpredictable, and the outputs of these models can sometimes be troubling, disturbing, and "not safe for work". This is especially true with open source text-to-image models we will work with like Stable Diffusion. Open source models can be used without the censors and safety modifications imposed by commercial platforms like ChatGPT or Midjourney, which (attempt to) prevent users from generating graphic sexual or violent content. This lack of restriction can be creatively desirable, but also open us up to the risk of generating graphic images–regardless of our intention.
 
-# Learning Goals and Outcomes
+## Learning Goals
 
-- Working technical knowledge of machine learning and how AI systems function
+- Working technical knowledge of machine learning and how AI systems function.
 - Proficiency in experimenting with a broad range of generative AI tools.
 - Critical understanding of the ways AI enters into and shapes culture and society, from environmental impacts and labor issues to how we relate to each other.
 - The ability to contextualize AI-generated material within one's own practice and within the broader art world.
+
+## Student Learning Outcomes
+
+- 1. STUDIO SKILLS Demonstrate a safe and advanced technical skill in their use of materials, including specialized, unique, or unusual tools and techniques in relation to (discipline/department/course name).
+- 2. MATERIAL EXPLORATION, FORM AND CONTENT Select or develop well-researched material choices that enhance the content, quality and/or effectiveness of their creative/research inquiry. Demonstrates an advanced understanding of the relationship between form and content; sustainability/environmental impact. Adheres to safe practices with all materials.
+- 3. PRACTICE **Synthesize and integrate** advanced iterative working methods to conceptualize. **Develop** and **create** products/practices that demonstrate ambition, creativity and/or innovation; Individually or in collaboration.
+- 4. HISTORICAL AND/OR THEORETICAL CONTEXT **Demonstrate** an advanced contextual knowledge that integrates the histories and theories of _(discipline/department/course name)_ to inform their own practice.
+- 5. CREATIVE PRACTICE RESEARCH **Formulate** an independent research question; **demonstrate** advanced use of the concepts and principles of research to differentiate, evaluate, organize and analyze relevant information and resources; effectively **communicate** their discovery through conventional or unconventional means.
+
 
 # Classroom values
 
