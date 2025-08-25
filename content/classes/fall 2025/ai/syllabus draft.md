@@ -148,20 +148,27 @@ ComfyUI part 1 - the basics
 ComfyUI part 2 - controlnet, inpainting, outpainting, ipadapter, upscaling
 inpainting outpainting exquisite corpse
 ##  03 - 09/11 -
-ComfyUI part 3 - open source video (animatediff + controlnet, wan2.2)
+Open source video (animatediff + controlnet, wan2.2)
 closed source video
+Training a LoRA
 ##  04 - 09/18 -
-Gaussian Splatting + 3D scanning
+Generative 3D models
+Ethan Proia FloRA (9:45a CST)
+FloRA
+prompt battle?
 Open studio time
 ##  05 - 09/25 -
 "midterm 1" (image and video) presentations
 ##  06 - 10/02 -
-intro to touchdesigner + stream diffusion
+intro to touchdesigner
+touchdesigner + stream diffusion
 ##  07 - 10/09 -
 intro to LLMs
 intro to touchdesigner + lops
 ##  08 - 10/16 -
-vibe coding workshop
+vibe coding
+bots and agents
+automation
 ##  09 - 10/23 -
 substitute (rehearsing with judd + aviva)
 open studio time
