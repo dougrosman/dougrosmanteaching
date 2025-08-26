@@ -98,61 +98,61 @@ Although this class will prioritize generative applications of AI, *you are allo
 # Course Schedule
 *Note: there is a ton of possible material we could cover in this class. Below is a loose outline of what I think we should cover, but all of this is flexible and open to change based on the interests of the class.*
 
-## Week 1 8/29 - Introductions
+## Week 1 8/28 - Introductions
 
 Course overview, Text-to-Image with ComfyUI Basic Setup
 
-## Week 2 9/5 - Text-to-Image 101
+## Week 2 9/4 - Text-to-Image 101
 
 History of AI + Art, ComfyUI topics: Prompt engineering, img2img, compositing, masking, tiling, upscaling
 
-## Week 3 9/12  - Text-to-Image 102
+## Week 3 9/11  - Text-to-Image 102
 
 ComfyUI topics: ControlNet, IP Adapters
 
-## Week 4 9/19  - Text-to-Image 103
+## Week 4 9/18  - Text-to-Image 103
 
 Midterm Project assigned
 ComfyUI topics: Text to Video, animation
 
-## Week 5 9/26 - Text-to-Image 104
+## Week 5 9/25 - Text-to-Image 104
 
 ComfyUI topics: Training our own LoRAs
 Intro to Python
 
-## Week 6 10/3 - Open Studio Time
+## Week 6 10/2 - Open Studio Time
 
 Open Studio Time
 
-## Week 7 10/10  - Midterm critiques
+## Week 7 10/09  - Midterm critiques
 
 Midterm Critiques
 
-## Week 8 10/17  - Real-time Image Generation
+## Week 8 10/16  - Real-time Image Generation
 
 Intro to TouchDesigner, TouchDesigner + Stable Diffusion (StreamDiffusion), FloraFauna.ai
 
-## Week 9 10/24  - 3D Worlds
+## Week 9 10/23  - 3D Worlds
 
 NeRFs + Gaussian Splatting, Text-to-3D
 
-## Week 10 10/31  - Large Language Models
+## Week 10 10/30  - Large Language Models
 
 Final Projects assigned
 Fine tuning Large Language Models
 
-## Week 11 11/7  - Generative Audio
+## Week 11 11/06  - Generative Audio
 
 Using publicly available data to drive your sketches
 
-## Week 12 11/14 - Autonomous Agents
+## Week 12 11/13 - Autonomous Agents
 
 Autonomous Agents, LangChain, CrewAI
 
-## Week 13 11/21  - Open Studio Time
-## Week 14 11/28  - Thanksgiving No Class
-## Week 15 12/5  - Critique Week No Class
-## Week 16 12/11 - Final Critiques
+## Week 13 11/20  - Open Studio Time
+## Week 14 11/27  - Thanksgiving No Class
+## Week 15 12/4  - Critique Week No Class
+## Week 16 12/10 - Final Critiques
 
 # Ongoing Assignments/Practices
 
