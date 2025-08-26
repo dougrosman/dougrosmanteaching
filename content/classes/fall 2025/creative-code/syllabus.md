@@ -16,76 +16,33 @@ description: ATSP 3135 Syllabus
 
 ****
 
-# Course Description
+## Course Description
 
-'Artificial Intelligence' (AI) has infiltrated many corners of our lives. Once used primarily to identify, track, and predict things in the world, AI–a convenient shorthand for machine learning–has now become generative: producing images, language, and anything else that can be parsed as data. Through a hands-on curriculum, students will explore AI tools to create images, video, audio and more, and will approach these AI systems as tools to augment a creative practice, as well as a medium and material in themselves. This course foregrounds experimentation and play as a means to develop a critical understanding of AI and the ethical implications of its use in creative production (and beyond), engaging in discourse around ideas of authenticity, authorship, and labor.
-
-Ultimately, students will leave this class with a broad understanding of how AI operates in the world today, and what it means to incorporate this technology into a creative practice. The course will be technically rigorous, emphasizing a broad exploration of generative AI tools including but not limited to: text-to-image models like Stable Diffusion, text-to-video, Large Language Models, Generative Adversarial Networks (GANs), and generative audio. Although having coding experience will benefit students, this course emphasizes flexibility with technology and software over coding proficiency. Readings and screenings will draw from the work of artists and thinkers like Sofia Crespo, Memo Akten, Mario Klingemann, Hito Steyerl, Trevor Paglen, Joy Buolamwini, Sarah Meyohas, Anna Ridler and Alex Mordvintsev who have been engaging critically with AI since the mid-2010s.
-
-Students will work individually and collaboratively on smaller scale projects early in the semester, producing and sharing works each week. The course will culminate in a larger scale final project and critique. Students will also maintain a 'sketchbook' documenting their experiments and methods throughout the semester.
-
-# AI Baggage
-
-AI–as a technology enmeshed within global capitalism–is a problematic entity. There are things that AI is responsible for that are often troubling and frequently outright deplorable. And yet, this is a fascinating and exciting new territory. I believe it is our job as artists to engage this complex socio-technical terrain with openness and playfulness, as well as criticality and skepticism. And so, while we are having fun experimenting with all these strange and curious new creative possibilities on offer, we will also acknowledge and contend with the many of the downsides, including, but not limited to:
-
-- Environmental impact
-- Labor issues (Jobs being automated, menial AI-jobs like Amazon's Mechanical Turk)
-- Content Moderation and Trauma
-- Misinformation / Disinformation / Dangerous AI hallucinations (Deadly AI-generated foraging guides)
-- Erosion of Trust (broadly)
-- Autonomous weapons / AI as an excuse to target individuals
-- Tech hype / bubbles
-- Enshitification / Dead Internet Theory / Facebook AI Slop / 
-- AI biases that reinforce stereotypes with a range a consequences
-- Privacy / consent / non-consensual deepfakes / CSAM
-- Data rights
-- Artists having their work scraped/work copied
-- AI art being passed off as non-AI art
-- "Art washing" (using art to help AI's positive reputation)
-- Cultural logic of computation (or, the problematics of thinking of our brains as literal computers)
-- AI ethics / neoliberal reform measures / HR-ification of models
-- Less Wrong rationalists / AI doomerism / Roko's Basilisk
-- Paperclip maximizer
-- Predictive policing / Facial Recognition
-- Superpowered Surveillance
-- AI relationships (romantic or otherwise)
-- Corporate monopolies (Nvidia, CUDA)
-- Autonomous agents + crypto
-- Many more!
-
-# AI Content Warning
-
-AI tools are inherently unpredictable. Even the "experts" who train the AI models don't know exactly how a trained model knows what it knows. Because of this, the outputs of these models can sometimes be troubling, disturbing, and not safe for work. This is especially true with Open Source text to image models like Stable Diffusion. Open Source models can be run locally on our own computers, and are not subject to the content moderation that large companies like OpenAI use to restrict how you use tools like ChatGPT or Dall-E. With Stable Diffusion running locally, you may be more likely to encounter disturbing or problematic imagery, sometimes when you're not looking for it. We will discuss strategies for avoiding these outputs, while also embracing the open-ended nature of these Open Source models as a context less controlled by massive corporate entities (although those safeguards are often interesting in and of themselves.)
+This studio course investigates the creative possibilities in programming, from interactivity to information visualization. Students explore interactive narratives and games, software art, simulations and emergent behaviors, and other code-based forms. Lectures and demonstrations provide a conceptual, aesthetic and technical foundation in programming as a creative practice. Techniques and concepts are presented through the open-source programming environment ~~Processing~~ p5.js, with an introduction to advanced topics such as ~~C++ and OpenFrameworks~~ TouchDesigner. Additionally, this course will explore web fundamentals (HTML and CSS), the version control tool git, as well as GitHub as a platform for open source code development.
 
 ## Learning Goals
 
 *At the end of this course, students will...*
 
-- Attain a high-level understanding of AI as an assemblage of technical systems and ideas, and be able use that knowledge to work critically with AI as a tool, a material, and a context
-- Develop a vocabulary around these rapidly evolving technologies in order to effectively contextualize the use of AI in their work.
-- Gain comfort in utilizing both closed and open source AI tools to explore media synthesis including but not limited to image, video, audio, text, and code generation.
-- Develop a historical understanding of the social and cultural impacts of AI, including the conditions that foster its development, and the ways it shapes our world.
+- Attain an intermediate-level proficiency in creative coding as both a technical practice and conceptual framework, and be able to apply that knowledge to work critically with code as a medium for artistic expression and cultural intervention.
+- Develop fluency in the languages and methodologies of creative coding in order to effectively articulate and contextualize computational approaches within contemporary art practice.
+- Gain comfort utilizing both established and emerging open source tools to explore creative expression across digital media, including interactive installations, generative systems, web-based works, and experimental interfaces.
+- Develop a critical understanding of the cultural and political dimensions of creative coding, including the communities that foster its development and the ways computational thinking shapes artistic discourse.
+- Cultivate technical competency in core web technologies (HTML, CSS, JavaScript/p5.js) and development workflows (version control with GitHub) as foundations for experimental practice.
+
 ## Student Learning Outcomes
 
 *At the end of this course, students will...*
 
-- Demonstrate a safe and advanced technical skill in their use of materials, including specialized, unique, or unusual tools and techniques in relation to AI media synthesis and AI-assisted creative workflows.
-- Select well-researched material choices and technical approaches that are appropriate for the content, quality and/or effectiveness of their creative/research inquiry, understanding the nuances of different AI models, how they may or may not work together, and the environmental impact of their processes.
-- Synthesize and integrate advanced iterative working methods to conceptualize, develop and create products/practices that demonstrate ambition, creativity and/or innovation; individually or in collaboration.
-- Demonstrate an advanced contextual knowledge that integrates the histories and cultural narratives around AI to inform their own practice.
-- Synthesize interdisciplinary discourses, media, processes, and technologies in the practice of AI-influenced or AI-derived artistic production.
-- Advocate for inclusion and representation in artistic practice and intellectual discourse, taking particular care to acknowledge the outsize harms to specific demographics by AI technologies.
-- Present culminating work with clarity, creativity, and impact, and that demonstrates intentionality.
-
-- 1. STUDIO SKILLS **Demonstrate** a safe and advanced technical skill in their use of materials, including specialized, unique, or unusual tools and techniques in relation to _(discipline/department/course name)_.
-- 2. MATERIAL EXPLORATION, FORM AND CONTENT **Select** **or develop** well-researched material choices that enhance the content, quality and/or effectiveness of their creative/research inquiry. **Demonstrates** an advanced understanding of the relationship between form and content; sustainability/environmental impact. Adheres to safe practices with all materials.
-- 3. PRACTICE **Synthesize and integrate** advanced iterative working methods to conceptualize. **Develop** and **create** products/practices that demonstrate ambition, creativity and/or innovation; Individually or in collaboration.
-- 4. HISTORICAL AND/OR THEORETICAL CONTEXT **Demonstrate** an advanced contextual knowledge that integrates the histories and theories of _(discipline/department/course name)_ to inform their own practice.
-- 5. CREATIVE PRACTICE RESEARCH **Formulate** an independent research question; **demonstrate** advanced use of the concepts and principles of research to differentiate, evaluate, organize and analyze relevant information and resources; effectively **communicate** their discovery through conventional or unconventional means.
-- 6. INTERDISCIPLINARY CONTEXT **Synthesize** interdisciplinary discourses, media, processes, technologies to the practice of discipline/department/course name to create innovative solutions or interpretations to a research question or creative practice.
-- 7. DIVERSE PERSPECTIVES **Advocates** for inclusion and representation in artistic practice and intellectual discourse. **Embodies** an openness and respect for the importance of diverse perspectives; actively **challenges** their own assumptions and biases.
-- 8. PRESENTATION ****Present**** culminating work with clarity, creativity, and impact. Work is well organized, clearly articulated and ****demonstrates intentionality**;** demonstrates consideration of audience; (when applicable) adheres to the guidelines or requirements of the space with autonomy and accountability.
-- 9. CRITIQUE **Fosters** a collaborative and supportive critique environment to critically engage in discussion/reflection with self regulation and awareness; be individually motivated to synthesize diverse feedback into practice for continued growth and improvement; Give informed and meaningful input to others with sensitivity to different points of view.
+- **STUDIO SKILLS** Demonstrate proficient technical skills with technical control over materials, and/or a beginning use of more specialized tools and techniques in relation to _creative coding and computational art_.
+- **MATERIAL EXPLORATION, FORM AND CONTENT** Research and apply technical approaches that are appropriate for their projects and/or research. Demonstrate a developing understanding of how computational processes relate to aesthetic outcomes; considers sustainability and environmental impact of digital practices. Adheres to best practices in code organization.
+- **PRACTICE** Employ creative and/or innovative iterative working methods to realize works in progress (WIP) and/or create computational art products/practices; individually or in collaboration.
+- **HISTORICAL AND/OR THEORETICAL CONTEXT** Demonstrate a deepened knowledge of specialized histories and theories of creative coding, computational art, and digital culture in relationship to their practice.
+- **CREATIVE PRACTICE RESEARCH** Explore and develop potential research questions around computational creativity; practice the concepts and principles of research using open source tools, documentation, and community resources to create a framework for independent discovery, evaluation, and analysis; demonstrate an understanding of the questions, methods and objectives of creative coding research; communicate outcomes through code, documentation, or presentations.
+- **INTERDISCIPLINARY CONTEXT** Apply concepts, theories, discourses, media, processes, technologies from distinct disciplines to the practice of creative coding to explore a research question or creative inquiry that bridges computation with other fields.
+- **DIVERSE PERSPECTIVES** Participates in conversations and activities that reinforce the importance of diverse perspectives to enrich computational art and tech communities; demonstrates a developing self awareness of personal assumptions and biases about who belongs in creative coding spaces.
+- **PRESENTATION** Purposefully present, project, perform, publish, install, mount or exhibit their computational work and articulate ideas in a manner that is clear and well organized; demonstrates an awareness of audience interaction and user experience; (when applicable) adheres to the guidelines or requirements of digital platforms or installation spaces with limited oversight.
+- **CRITIQUE** Engage in active listening and participate in discussion/reflection using specialized vocabulary from both technical and artistic domains; analyze and interpret feedback with sensitivity to different technical skill levels and creative approaches. Give informed and meaningful feedback to others about both conceptual and technical aspects of computational work and contribute positively overall to the critique process.
 # Classroom values
 
 - **Bring your full self to class**. AI is complex topic that affects all of us, we're all part of the discussion.
@@ -105,100 +62,78 @@ AI tools are inherently unpredictable. Even the "experts" who train the AI model
 - Lectures will begin promptly at 9:05am
 - I take attendance at 9:05am. If you aren't here at that time, you will be marked late.
 
-# Classroom Policy on AI-generated Content
-
-:)
-
-# Course Materials
+## Course Materials
 
 Although this class will prioritize generative applications of AI, *you are allowed and encouraged to explore any and all things related to AI.* I will do my best to support you all in your specific interests. You are encouraged, but not required to follow all of the in class demos or material we cover. If you know what you want to focus on, go for that. 
 
 [Weekly Materials Google Doc](https://docs.google.com/document/d/1BZ6z8_nYWpB2kYc0VgHYKc4s-nCsRtCYlnuC2y-PPvg/edit?usp=sharing)
 
-## Tools
-- ComfyUI
-- TouchDesigner
-- RunDiffusion
-- Command Line
-- GitHub
-- Many more!
-## Texts
-*All texts will be provided in our Canvas Files page. More texts will be added as necessary. Relevant texts will be assigned as needed
+### Tools
+- [p5.js.org](https://p5js.org/)
+- [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
+- [GitHub Desktop](https://desktop.github.com/download/)
+## Readings
+- [Code as Creative Medium: A Handbook for Computational Art and Design](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/)(2021), Golan Levin and Tega Brain
+- [The Nature of Code: Simulating Natural Systems with JavaScript](https://natureofcode.com/) (2024), Daniel Shiffman
+- [Getting Started with p5.js](https://openlab.citytech.cuny.edu/mtec1101-hd88-sp2022/files/2019/03/Make_Getting-Started-with-p5dotjs.pdf) (2015), Lauren McCarthy, Casey Reas and Ben Fry
 
-- Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence (2022), James Bridle
-- Artificial Intelligence: A Guide for Thinking Humans (2019), Melanie Mitchell
-- https://anatomyof.ai/, Kate Crawford, Vladan Joler
+## Course Schedule
 
-# Course Schedule
-*Note: there is a ton of possible material we could cover in this class. Below is a loose outline of what I think we should cover, but all of this is flexible and open to change based on the interests of the class.*
+### Week 1 8/27 - Introductions + creative code review
 
-## Week 1 8/29 - Introductions
+Introductions, course overview, tool setup, intro to HTML and CSS, p5.js review
+**Assignment:** create your home page
+### Week 2 9/03 - p5.js bootcamp
 
-Course overview, Text-to-Image with ComfyUI Basic Setup
+Variables, program flow, conditional statements (if-statements), for-loops, functions, mouse input, randomness
+**Assignment:** Iteration sketches
+### Week 3 9/10  - Objects, arrays and vectors, state machines
 
-## Week 2 9/5 - Text-to-Image 101
+Creating, accessing and looping through arrays. Using vectors for position. Managing state with "state machines"
+**Assignment:** Conditional testing and state machines
+### Week 4 9/17  - OOP (Object Oriented Programming) part 1: classes and object properties
 
-History of AI + Art, ComfyUI topics: Prompt engineering, img2img, compositing, masking, tiling, upscaling
+Particle systems, objects, classes
+**Assignment:** Midterm project proposal (create a living environment populated with entities that interact with each other)
+### Week 5 9/24 - OOP part 2: methods and behaviors, randomness and noise
 
-## Week 3 9/12  - Text-to-Image 102
-
-ComfyUI topics: ControlNet, IP Adapters
-
-## Week 4 9/19  - Text-to-Image 103
-
-Midterm Project assigned
-ComfyUI topics: Text to Video, animation
-
-## Week 5 9/26 - Text-to-Image 104
-
-ComfyUI topics: Training our own LoRAs
-Intro to Python
-
-## Week 6 10/3 - Open Studio Time
+Making objects change over time and interact with the world.
+**Assignment:** work on midterm
+### Week 6 10/01 - Midterm open studio time
 
 Open Studio Time
-
-## Week 7 10/10  - Midterm critiques
+Make sure midterm project is working with GitHub / GitHub Pages
+**Assignment:** work on midterm
+### Week 7 10/08  - Midterm critiques
 
 Midterm Critiques
+**Assignment:** artist research project
+### Week 8 10/15  - Sound in p5.js, 3D in p5.js
 
-## Week 8 10/17  - Real-time Image Generation
+Sound synthesis and playback, audio visualization, microphone input, 3D with WebGL in p5.js
+### Week 9 10/22  - Expanded interactivity: body tracking with ml5.js
 
-Intro to TouchDesigner, TouchDesigner + Stable Diffusion (StreamDiffusion), FloraFauna.ai
+Pose, face, body, hand tracking with ml5.js, present artist research project
+**Assignment:** teach the class about a p5.js library
+### Week 10 10/29  - Drawing machines, p5.plotSvg and pen plotters
 
-## Week 9 10/24  - 3D Worlds
+Code sketching for the pen plotter, working with the p5.plotSvg library, drawing with a pen plotter
+**Assignment:** plot a drawing with the plotter in the io Lab
+### Week 11 11/05  - Working with Data / APIs, Final Project Assigned
 
-NeRFs + Gaussian Splatting, Text-to-3D
+Using publicly available data to drive your sketches, present "teach the class about a p5.js library", assign final project
+**Assignment: Final project proposal**
+### Week 12 11/12 - Open Studio
 
-## Week 10 10/31  - Large Language Models
+Final project proposal presentations, open studio time
+### Week 13 11/19  - Open Studio Time
 
-Final Projects assigned
-Fine tuning Large Language Models
+Open studio time to work on final projects, decide critique schedule
+### Week 14 11/26  - Thanksgiving No Class
+### Week 15 12/03  - Critique Week No Class
+### Week 16 12/11 - Final Project Critiques
 
-## Week 11 11/7  - Generative Audio
-
-Using publicly available data to drive your sketches
-
-## Week 12 11/14 - Autonomous Agents
-
-Autonomous Agents, LangChain, CrewAI
-
-## Week 13 11/21  - Open Studio Time
-## Week 14 11/28  - Thanksgiving No Class
-## Week 15 12/5  - Critique Week No Class
-## Week 16 12/11 - Final Critiques
-
-# Ongoing Assignments/Practices
-
-## TikTok "AI Diary"
-
-Students will "submit" weekly assignments by posting them to a private TikTok account created just for this class. Each student will follow their peers, engaging with the material they post in a loosely-structured manner.
-
-## Are.na resource sharing
-
-Each week, students will contribute one AI-related piece of content found online to the class Are.na page. These will be discussed in class at the start of class each week. Everyone must participate in these discussions! 
-
-# Required Assignments
+## Required Assignments
 
 - Midterm Project
 - Final Project
