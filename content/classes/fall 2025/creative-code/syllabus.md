@@ -18,8 +18,7 @@ description: ATSP 3135 Syllabus
 
 ## Course Description
 
-This studio course investigates the creative possibilities in programming, from interactivity to information visualization. Students explore interactive narratives and games, software art, simulations and emergent behaviors, and other code-based forms. Lectures and demonstrations provide a conceptual, aesthetic and technical foundation in programming as a creative practice. Techniques and concepts are presented through the open-source programming environment ~~Processing~~ p5.js, with an introduction to advanced topics such as ~~C++ and OpenFrameworks~~ TouchDesigner. Additionally, this course will explore web fundamentals (HTML and CSS), the version control tool git, as well as GitHub as a platform for open source code development.
-
+This studio course investigates the creative possibilities in programming, from interactivity to information visualization. Students explore interactive narratives and games, software art, simulations and emergent behaviors, and other code-based forms. Lectures and demonstrations provide a conceptual, aesthetic and technical foundation in programming as a creative practice. Techniques and concepts are presented through the open-source programming environment ~~Processing~~ p5.js, ~~with an introduction to advanced topics such as C++ and OpenFrameworks~~. Additionally, this course will explore web fundamentals (HTML and CSS), the version control tool git, as well as GitHub as a platform for open source code development.
 ## Learning Goals
 
 *At the end of this course, students will...*
@@ -42,22 +41,24 @@ This studio course investigates the creative possibilities in programming, from 
 - **DIVERSE PERSPECTIVES** Participates in conversations and activities that reinforce the importance of diverse perspectives to enrich computational art and tech communities; demonstrates a developing self awareness of personal assumptions and biases about who belongs in creative coding spaces.
 - **PRESENTATION** Purposefully present, project, perform, publish, install, mount or exhibit their computational work and articulate ideas in a manner that is clear and well organized; demonstrates an awareness of audience interaction and user experience; (when applicable) adheres to the guidelines or requirements of digital platforms or installation spaces with limited oversight.
 - **CRITIQUE** Engage in active listening and participate in discussion/reflection using specialized vocabulary from both technical and artistic domains; analyze and interpret feedback with sensitivity to different technical skill levels and creative approaches. Give informed and meaningful feedback to others about both conceptual and technical aspects of computational work and contribute positively overall to the critique process.
-## Classroom values
-
-- **Bring your full self to class**. AI is complex topic that affects all of us, we're all part of the discussion.
-- **Quantity over Quality** (or, more is more!)
-- **Sharing is caring!** This classroom is a community of folks figuring out these tools together in real-time. You are encouraged to share resources, workflows, trained models, thoughts, feelings, images, experiments. Anything!
-- **Shun mastery, embrace uncertainty!** Nobody in here is an experiment. The inner workings of AI tools are fundamentally unknowable to us, so embrace the chaos and just try things out. 
 
 ## Receiving Credit for this Course
 
-- Complete a midterm project
-- Complete a final project
-- Contribute resources to the class Are.na page
+- Complete the "create your homepage" assignment
+- Complete the "teach the class about a p5 library" assignment
+- Complete the "artist research presentation" assignment
+- Complete and present your midterm project
+- Complete and present your final project
+- Contribute at least 4 resources to the class Are.na page
+
+Other weekly assignments are strongly encouraged, but not required for course credit
 ## Being on time and ready for class
 
 - Please arrive at 9:00am to give yourself time to settle in
-- Lectures will begin promptly at 9:05am
+- Lectures will begin promptly at 9:05am. By 9:05, you should:
+	- save and close any program, project or assignment unrelated to this class
+	- have something ready for note taking
+	- make sure your computer has enough battery, or that your charger is plugged in
 ## Course Materials
 
 -  [Weekly Materials Google Doc](https://docs.google.com/document/d/1tzdVcLWBzF3U9T3nsBIJq942TXg0TAe-24SF4QdVeZE/edit?usp=sharing) (everything important for the class, including lecture notes, assignment information, and resources will be added here)
@@ -106,7 +107,7 @@ Make sure midterm project is working with GitHub / GitHub Pages
 ### Week 7 10/08  - Midterm critiques
 
 Midterm Critiques
-**Assignment:** artist research project
+**Assignment:** artist research presentation
 ### Week 8 10/15  - Sound in p5.js, 3D in p5.js
 
 Sound synthesis and playback, audio visualization, microphone input, 3D with WebGL in p5.js
@@ -127,7 +128,7 @@ Using publicly available data to drive your sketches, present "teach the class a
 Final project proposal presentations, open studio time
 ### Week 13 11/19  - Open Studio Time
 
-Open studio time to work on final projects, decide critique schedule
+Open studio time to work on final projects, decide critique schedule, creative coding beyond p5.js
 ### Week 14 11/26  - Thanksgiving Break (No Class)
 ### Week 15 12/03  - Critique Week (No Class)
 ### Week 16 12/11 - Final Project Critiques
@@ -195,6 +196,19 @@ Academic misconduct includes both plagiarism and cheating, and may consist of: t
 Academic misconduct extends to all spaces on campus, including satellite locations and online education.
 
 Academic integrity is expected in all coursework, including online learning. It is assumed that the person receiving the credit for the course is the person completing the work. SAIC has processes in place, including LDAP authentication, to verify student identity.
+
+## Classroom Policy on AI-generated Code
+
+**Use of Generative AI tools specifically to write code is prohibited unless stated otherwise on a per-assignment basis. You are allowed to use AI tools as a research or learning aid, but not to generate your code.**
+
+Generative AI tools, particularly Large Language Models (LLMs) like ChatGPT, Claude or Gemini can generate functioning code in a variety of languages, simply by asking them for what you want in human language. Professional coders at all levels of industry are building AI into their workflows to increase their productivity. In fact, some are forecasting that coders are some of the workers most vulnerable to [having their jobs replaced by AI in the near future](https://www.businessinsider.com/aws-ceo-developers-stop-coding-ai-takes-over-2024-8). *Even I use AI to help me write code for my own creative projects.*
+
+**So, why am not allowing you to use them for your coding assignments? I have practical and philosophical reasons for this:**
+
+1. Relying on AI to generate code prevents you from actually learning how to code.
+2. Understanding coding fundamentals is necessary for you to use AI code assistance effectively (if an AI generates broken code, you probably won't know how to fix it!)
+3. Code itself is an expressive medium, and has value outside of simply what it *does*.
+4. Learning to code teaches you how your computer works.
 
 ## Support Resources for Students
 
