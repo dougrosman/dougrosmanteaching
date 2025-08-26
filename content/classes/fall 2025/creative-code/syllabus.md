@@ -34,55 +34,54 @@ This studio course investigates the creative possibilities in programming, from 
 
 *At the end of this course, students will...*
 
-- **STUDIO SKILLS** Demonstrate proficient technical skills with technical control over materials, and/or a beginning use of more specialized tools and techniques in relation to _creative coding and computational art_.
-- **MATERIAL EXPLORATION, FORM AND CONTENT** Research and apply technical approaches that are appropriate for their projects and/or research. Demonstrate a developing understanding of how computational processes relate to aesthetic outcomes; considers sustainability and environmental impact of digital practices. Adheres to best practices in code organization.
-- **PRACTICE** Employ creative and/or innovative iterative working methods to realize works in progress (WIP) and/or create computational art products/practices; individually or in collaboration.
+- **STUDIO SKILLS** Demonstrate proficient technical skills with technical control over materials, and/or a beginning use of more specialized tools and techniques in relation to creative coding and computational art.
+- **MATERIAL EXPLORATION, FORM AND CONTENT** Research and apply technical approaches that are appropriate for their projects and/or research. Demonstrate a developing understanding of how computational processes relate to aesthetic outcomes; considers sustainability and environmental impact of digital practices.
 - **HISTORICAL AND/OR THEORETICAL CONTEXT** Demonstrate a deepened knowledge of specialized histories and theories of creative coding, computational art, and digital culture in relationship to their practice.
-- **CREATIVE PRACTICE RESEARCH** Explore and develop potential research questions around computational creativity; practice the concepts and principles of research using open source tools, documentation, and community resources to create a framework for independent discovery, evaluation, and analysis; demonstrate an understanding of the questions, methods and objectives of creative coding research; communicate outcomes through code, documentation, or presentations.
+- **CREATIVE PRACTICE RESEARCH** Practice the concepts and principles of research using open source tools, documentation, and community resources to create a framework for independent discovery, evaluation, and analysis; demonstrate an understanding of the questions, methods and objectives of creative coding research; communicate outcomes through code, documentation, or presentations.
 - **INTERDISCIPLINARY CONTEXT** Apply concepts, theories, discourses, media, processes, technologies from distinct disciplines to the practice of creative coding to explore a research question or creative inquiry that bridges computation with other fields.
 - **DIVERSE PERSPECTIVES** Participates in conversations and activities that reinforce the importance of diverse perspectives to enrich computational art and tech communities; demonstrates a developing self awareness of personal assumptions and biases about who belongs in creative coding spaces.
 - **PRESENTATION** Purposefully present, project, perform, publish, install, mount or exhibit their computational work and articulate ideas in a manner that is clear and well organized; demonstrates an awareness of audience interaction and user experience; (when applicable) adheres to the guidelines or requirements of digital platforms or installation spaces with limited oversight.
 - **CRITIQUE** Engage in active listening and participate in discussion/reflection using specialized vocabulary from both technical and artistic domains; analyze and interpret feedback with sensitivity to different technical skill levels and creative approaches. Give informed and meaningful feedback to others about both conceptual and technical aspects of computational work and contribute positively overall to the critique process.
-# Classroom values
+## Classroom values
 
 - **Bring your full self to class**. AI is complex topic that affects all of us, we're all part of the discussion.
 - **Quantity over Quality** (or, more is more!)
 - **Sharing is caring!** This classroom is a community of folks figuring out these tools together in real-time. You are encouraged to share resources, workflows, trained models, thoughts, feelings, images, experiments. Anything!
 - **Shun mastery, embrace uncertainty!** Nobody in here is an experiment. The inner workings of AI tools are fundamentally unknowable to us, so embrace the chaos and just try things out. 
 
-# Receiving Credit for this Course
+## Receiving Credit for this Course
 
 - Complete a midterm project
 - Complete a final project
 - Contribute resources to the class Are.na page
-
-# Being on Time
+## Being on time and ready for class
 
 - Please arrive at 9:00am to give yourself time to settle in
 - Lectures will begin promptly at 9:05am
-- I take attendance at 9:05am. If you aren't here at that time, you will be marked late.
-
 ## Course Materials
 
-Although this class will prioritize generative applications of AI, *you are allowed and encouraged to explore any and all things related to AI.* I will do my best to support you all in your specific interests. You are encouraged, but not required to follow all of the in class demos or material we cover. If you know what you want to focus on, go for that. 
+-  [Weekly Materials Google Doc](https://docs.google.com/document/d/1tzdVcLWBzF3U9T3nsBIJq942TXg0TAe-24SF4QdVeZE/edit?usp=sharing) (everything important for the class, including lecture notes, assignment information, and resources will be added here)
+- https://teaching.dougrosman.com/classes/fall-2025/creative-code/ (class website with resources and assignment descriptions)
+- https://saic.instructure.com/courses/7489900 (class Canvas page. Assignments will be posted here as well)
+- https://www.are.na/doug-rosman/creative-code-fa25 (class collaborative Are.na page)
 
-[Weekly Materials Google Doc](https://docs.google.com/document/d/1BZ6z8_nYWpB2kYc0VgHYKc4s-nCsRtCYlnuC2y-PPvg/edit?usp=sharing)
-
-### Tools
-- [p5.js.org](https://p5js.org/)
-- [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
-- [GitHub Desktop](https://desktop.github.com/download/)
 ## Readings
+
+Readings will be uploaded to Canvas, and can be accessed from there.
+
 - [Code as Creative Medium: A Handbook for Computational Art and Design](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/)(2021), Golan Levin and Tega Brain
 - [The Nature of Code: Simulating Natural Systems with JavaScript](https://natureofcode.com/) (2024), Daniel Shiffman
 - [Getting Started with p5.js](https://openlab.citytech.cuny.edu/mtec1101-hd88-sp2022/files/2019/03/Make_Getting-Started-with-p5dotjs.pdf) (2015), Lauren McCarthy, Casey Reas and Ben Fry
 
 ## Course Schedule
 
+*The material in this class is subject to change based on the needs and impulses of the class. Assignment details will be published to Canvas when they are assigned.*
+
 ### Week 1 8/27 - Introductions + creative code review
 
 Introductions, course overview, tool setup, intro to HTML and CSS, p5.js review
 **Assignment:** create your home page
+**Read:** *Getting Started with p5.js* 1/Hello, *Code as Creative Medium: A Handbook for Computational Art and Design* Introduction
 ### Week 2 9/03 - p5.js bootcamp
 
 Variables, program flow, conditional statements (if-statements), for-loops, functions, mouse input, randomness
@@ -129,16 +128,9 @@ Final project proposal presentations, open studio time
 ### Week 13 11/19  - Open Studio Time
 
 Open studio time to work on final projects, decide critique schedule
-### Week 14 11/26  - Thanksgiving No Class
-### Week 15 12/03  - Critique Week No Class
+### Week 14 11/26  - Thanksgiving Break (No Class)
+### Week 15 12/03  - Critique Week (No Class)
 ### Week 16 12/11 - Final Project Critiques
-
-## Required Assignments
-
-- Midterm Project
-- Final Project
-- Contribution to class Are.na + discussion
-- TikTok "AI Diary"
 
 ---
 ## SAIC Attendance and Participation Policy
