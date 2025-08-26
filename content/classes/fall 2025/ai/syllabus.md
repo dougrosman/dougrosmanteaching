@@ -1,7 +1,7 @@
 ---
 title: Syllabus
 draft: true
-description: ATSP 4144 Syllabus
+description: AI - ATSP 4144 Syllabus
 ---
 **Course Title:** AI
 **Semester:** Fall 2025
@@ -59,15 +59,15 @@ AI tools are inherently unpredictable, and the outputs of these models can somet
 ## Classroom values
 
 - **Bring your full self to class**. AI is complex topic that affects all of us, we're all part of the discussion.
-- **Quantity over Quality** (or, more is more!)
 - **Sharing is caring!** This classroom is a community of folks figuring out these tools together in real-time. You are encouraged to share resources, workflows, trained models, thoughts, feelings, images, experiments. Anything!
-- **Shun mastery, embrace uncertainty!** Everything in here is an experiment. The inner workings of AI tools are fundamentally unknowable to us, so embrace the chaos and just try things out. 
+- **Shun mastery, embrace uncertainty.** Everything in this class is an experiment. The inner workings of AI tools are fundamentally unknowable to us, so embrace the chaos and just try things out.
+- **Quantity over Quality**. Again, given the unpredictability of these tools, the best way to find a creative approach that suits us is to try a lot of different approaches.
 
 ## Receiving Credit for this Course
 
-- Complete a midterm project
-- Complete a final project
-- Contribute resources to the class Are.na page
+- Complete and present a midterm project
+- Complete and present a final project
+- Contribute at least 4 items to the class Are.na page
 
 ## Being on Time
 
