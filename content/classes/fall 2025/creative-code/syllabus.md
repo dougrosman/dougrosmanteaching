@@ -3,6 +3,8 @@ title: Syllabus
 draft: true
 description: ATSP 3135 Syllabus
 ---
+# Syllabus – ATSP 3135 – Interactive Art and Creative Coding – Fall 2025
+
 **Course Title:** Interactive Art and Creative Coding
 **Semester:** Fall 2025
 **Catalog Number:** 3135 | **Class Number:** 1124 | **Section:** 001 | **Credits:** 3
@@ -83,52 +85,65 @@ Readings will be uploaded to Canvas, and can be accessed from there.
 Introductions, course overview, tool setup, intro to HTML and CSS, p5.js review
 **Assignment:** create your home page
 **Read:** *Getting Started with p5.js* 1/Hello, *Code as Creative Medium: A Handbook for Computational Art and Design* Introduction
+
 ### Week 2 9/03 - p5.js bootcamp
 
 Variables, program flow, conditional statements (if-statements), for-loops, functions, mouse input, randomness
 **Assignment:** Iteration sketches
+
 ### Week 3 9/10  - Objects, arrays and vectors, state machines
 
 Creating, accessing and looping through arrays. Using vectors for position. Managing state with "state machines"
 **Assignment:** Conditional testing and state machines
+
 ### Week 4 9/17  - OOP (Object Oriented Programming) part 1: classes and object properties
 
 Particle systems, objects, classes
 **Assignment:** Midterm project proposal (create a living environment populated with entities that interact with each other)
+
 ### Week 5 9/24 - OOP part 2: methods and behaviors, randomness and noise
 
 Making objects change over time and interact with the world.
 **Assignment:** work on midterm
+
 ### Week 6 10/01 - Midterm open studio time
 
 Open Studio Time
 Make sure midterm project is working with GitHub / GitHub Pages
 **Assignment:** work on midterm
+
 ### Week 7 10/08  - Midterm critiques
 
 Midterm Critiques
 **Assignment:** artist research presentation
+
 ### Week 8 10/15  - Sound in p5.js, 3D in p5.js
 
 Sound synthesis and playback, audio visualization, microphone input, 3D with WebGL in p5.js
+
 ### Week 9 10/22  - Expanded interactivity: body tracking with ml5.js
 
 Pose, face, body, hand tracking with ml5.js, present artist research project
 **Assignment:** teach the class about a p5.js library
+
 ### Week 10 10/29  - Drawing machines, p5.plotSvg and pen plotters
 
 Code sketching for the pen plotter, working with the p5.plotSvg library, drawing with a pen plotter
 **Assignment:** plot a drawing with the plotter in the io Lab
+
 ### Week 11 11/05  - Working with Data / APIs, Final Project Assigned
 
 Using publicly available data to drive your sketches, present "teach the class about a p5.js library", assign final project
 **Assignment: Final project proposal**
+
 ### Week 12 11/12 - Open Studio
 
 Final project proposal presentations, open studio time
+
 ### Week 13 11/19  - Open Studio Time
 
 Open studio time to work on final projects, decide critique schedule, creative coding beyond p5.js
+
 ### Week 14 11/26  - Thanksgiving Break (No Class)
 ### Week 15 12/03  - Critique Week (No Class)
 ### Week 16 12/11 - Final Project Critiques
