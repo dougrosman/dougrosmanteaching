@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-draft: true
+draft: false
 description: ATSP 3135 Syllabus
 ---
 # Syllabus – ATSP 3135 – Interactive Art and Creative Coding – Fall 2025
