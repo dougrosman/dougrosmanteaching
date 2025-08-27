@@ -9,6 +9,37 @@ Video: https://www.youtube.com/watch?v=EpOuzBPBUNQ
 
 ---
 
+## Introduction email
+
+**Subject:** Preparing for advising
+
+**Body:**
+
+Hey all,
+
+I just wanted to reach out ahead of our first advising session to set some expectations for the first meeting, and for the semester.
+
+If you've advised with me before, then you know more or less what to expect, but this email is still a good place to re-orient. For everyone else, read on :)
+
+**Expectations for our sessions**
+
+As I mentioned previously, we'll meet up to 7 times this semester, with each meeting scheduled for 50 minutes. Please be on time, and give yourself a few minutes to settle into the advising head space. If you're running more than 15 minutes late, send me an email (drosma@artic.edu). I'll wait for you for 15 minutes, after which I'll leave. I'm happy to meet you wherever you'd like, just give me advance notice before we meet. I'm also available to meet on Zoom, but I prefer meeting in person. If something comes up and you're not able to attend an advising session, give me as much advance notice as possible, and we can try to reschedule.
+
+**What is advising/how to prepare**
+
+Ultimately, these sessions are for you. Advising is a place for us to focus on your work in whatever way feels most helpful for you. This is not a space where I'm evaluating you, or setting specific standards for you to reach. There are no assignments. There isn't a particular type of project you should do because I'm your advisor, and you don't have to work on separate projects with each advisor. I'm here to meet you where you are in your practice. When we meet, I'm meeting with you as a mentor and fellow artist. Although some of my feedback may include suggestions, or advice for things you should try, I'm primarily there to respond to your work and give you open-ended feedback.
+
+Some of you may be advising specifically because I can offer technical assistance for your projects. While I am happy to give you some pointers and talk through your projects on a technical side, advising is not primarily a technical resource.
+
+**For our first meeting**
+
+For our first meeting, and especially if this is your first semester, think about what your goals are for the semester. Are you in the middle of a project, or starting something new? What do you need the most help with? What can you share with me that will help me understand better where you're coming from. If we haven't worked together before, we can spend a little bit of time our first session talking about your practice, your interests, your work–anything that might help me better help you :)
+
+I'm excited to work with you all, and look forward to our first session!
+
+Doug
+
+
 ## Email
 
 **Subject:**
