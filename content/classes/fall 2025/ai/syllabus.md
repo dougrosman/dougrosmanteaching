@@ -6,16 +6,25 @@ description: AI - ATSP 4144 Syllabus
 # Syllabus - ATSP 4022 - AI - Fall 2025
 
 **Course Title:** AI
+
 **Semester:** Fall 2025
+
 **Catalog Number:** 4022 | **Class Number:** 1152 | **Section:** 001 | **Credits:** 3
+
 **Location:** MacLean 402
+
+
 **Time:** Thursdays, 9am-3pm (August 28-December 11)
 
 **Instructor:** Douglas Rosman (he/him) (Preferred name: Doug)
+
 **Email:** drosma@artic.edu (you can also send me a message in Canvas)
+
 **Office Hours:** Available by appointment (send me an email to schedule)
 
+
 **TA:** Nickii Schamborski (they/them)
+
 **TA Email:** nscham@artic.edu
 
 ****
