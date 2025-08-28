@@ -1,6 +1,6 @@
 ---
 title: Week 2 - 09/04/2025
-draft: false
+draft: true
 description: Week 2
 ---
 ## Summary

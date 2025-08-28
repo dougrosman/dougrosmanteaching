@@ -1,6 +1,6 @@
 ---
 title: Week 1 - 08/28/2025
-draft: false
+draft: true
 description: Introductions
 ---
 ## Summary
