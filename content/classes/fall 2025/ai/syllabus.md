@@ -1,8 +1,10 @@
 ---
 title: Syllabus
-draft: true
+draft: false
 description: AI - ATSP 4144 Syllabus
 ---
+# Syllabus - ATSP 4022 - AI - Fall 2025
+
 **Course Title:** AI
 **Semester:** Fall 2025
 **Catalog Number:** 4022 | **Class Number:** 1152 | **Section:** 001 | **Credits:** 3
@@ -56,120 +58,104 @@ AI tools are inherently unpredictable, and the outputs of these models can somet
 - Advocate for inclusion and representation in artistic practice and intellectual discourse, taking particular care to acknowledge the outsize harms to specific demographics caused by AI technologies.
 - Present culminating work with clarity, creativity, and impact, and that demonstrates intentionality.
 
-## Classroom values
-
-- **Bring your full self to class**. AI is complex topic that affects all of us, we're all part of the discussion.
-- **Sharing is caring!** This classroom is a community of folks figuring out these tools together in real-time. You are encouraged to share resources, workflows, trained models, thoughts, feelings, images, experiments. Anything!
-- **Shun mastery, embrace uncertainty.** Everything in this class is an experiment. The inner workings of AI tools are fundamentally unknowable to us, so embrace the chaos and just try things out.
-- **Quantity over Quality**. Again, given the unpredictability of these tools, the best way to find a creative approach that suits us is to try a lot of different approaches.
-
 ## Receiving Credit for this Course
 
 - Complete and present a midterm project
 - Complete and present a final project
-- Contribute at least 4 items to the class Are.na page
+- Contribute at least 5 items to the class Are.na page
 
 ## Being on Time
 
 - Please arrive at 9:00am to give yourself time to settle in
-- Lectures will begin promptly at 9:05am
-- I take attendance at 9:05am. If you aren't here at that time, you will be marked late.
+- Lectures will begin promptly at 9:05am. By 9:05, you should:
+	- save and close any program, project or assignment unrelated to this class
+	- have something ready for note taking
+	- make sure your computer has enough battery, or that your charger is plugged in
 
-# Course Materials
+## Course Budget
+$20-60 for various subscriptions to AI platforms
 
-Although this class will prioritize generative applications of AI, *you are allowed and encouraged to explore any and all things related to AI.* I will do my best to support you all in your specific interests. You are encouraged, but not required to follow all of the in class demos or material we cover. If you know what you want to focus on, go for that. 
+## Course Materials
 
-[Weekly Materials Google Doc](https://docs.google.com/document/d/1BZ6z8_nYWpB2kYc0VgHYKc4s-nCsRtCYlnuC2y-PPvg/edit?usp=sharing)
+[Weekly Materials Google Doc](https://docs.google.com/document/d/1P059I5V2QXJMDkDsl1BTMO0neTq399uON4D15hNTE9U/edit?usp=sharing) - All class material can be found here.
+[Canvas Page](https://saic.instructure.com/courses/7489936) - Assignments will be posted here
+[Are.na](https://www.are.na/) - a space to share interesting references
 
-## Tools
-- ComfyUI
-- TouchDesigner
-- RunDiffusion
-- Command Line
-- GitHub
-- Many more!
-## Texts
-*All texts will be provided in our Canvas Files page. More texts will be added as necessary. Relevant texts will be assigned as needed
+Although this class will prioritize generative applications of AI, *you are allowed and encouraged to explore any and all things related to AI.* I will do my best to support you all in your specific interests. You are encouraged, but not required to follow all of the in class demos or material we cover. If you know what you want to focus on, go for that.
 
+## Texts++
+*All texts/videos will be provided in our Weekly Materials Google Docs, or uploaded to our Canvas Files page. Text excerpts will assigned when appropriate.
+
+- Medium Hot: Images in the Age of Heat (2025), Hito Steyerl
 - Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence (2022), James Bridle
 - Artificial Intelligence: A Guide for Thinking Humans (2019), Melanie Mitchell
 - https://anatomyof.ai/, Kate Crawford, Vladan Joler
+- Am I Slop? Am I Agentic? Am I Earth? Identity in the Age of Neural Media (2025), K Allado-McDowell
 
-# Course Schedule
-*Note: there is a ton of possible material we could cover in this class. Below is a loose outline of what I think we should cover, but all of this is flexible and open to change based on the interests of the class.*
+## Course Schedule
+*Note: there is a ton of possible material we could cover in this class. Below is a loose outline of what I think we should cover in class, but all of this is flexible and open to change based on the interests of the class. There are so many things to include related to AI; resources for other material will be provided as needed.*
 
-## Week 1 8/28 - Introductions
+### Week 01 - 08/28 - Introductions, what is AI?
+introductions
+course overview
+set up our tools
+Introduction to Stable Diffusion and ComfyUI for local image generation
 
-Course overview, Text-to-Image with ComfyUI Basic Setup
+### Week 02 - 09/04 - Open + Closed Source Image Making 
+History of AI images
+Intermediate tools and workflows with ComfyUI: controlnet, inpainting, outpainting, ipadapter, upscaling
 
-## Week 2 9/4 - Text-to-Image 101
+### Week 03 - 09/11 - AI Video and Audio
+Local open source video with animatediff + controlnet, wan2.2
+Upscaling with Topaz
+Closed source video with Sora, Kling, Veo and Runway
+Audio generation
 
-History of AI + Art, ComfyUI topics: Prompt engineering, img2img, compositing, masking, tiling, upscaling
+### Week 04 - 09/18 - AI Video continued with FLORA
+Visiting talk from Ethan Proia of FLORA AI (9:45a CST)
+Work with FLORA
+Midterm assigned
 
-## Week 3 9/11  - Text-to-Image 102
+### Week 05 - 09/25 - Open Studio
+Workshop requests
+Open studio time to work on Midterm
 
-ComfyUI topics: ControlNet, IP Adapters
+### Week 06 - 10/02 - Midterm presentations
+Present midterms
 
-## Week 4 9/18  - Text-to-Image 103
+### Week 07 - 10/09 - Large Language Models
+Intro to closed source LLMs (ChatGPT, Claude, Gemini, etc.)
+Intro to open source/local LLMs (Ollama)
 
-Midterm Project assigned
-ComfyUI topics: Text to Video, animation
+### Week 08 - 10/16 - Vibe Coding
+Make something through the process of "Vibe Coding"
 
-## Week 5 9/25 - Text-to-Image 104
+### Week 09 - 10/23 - Vibe Coding continued
+Substitute (TBD), Doug out of class
+open studio time to work on Vibe Coding assignment
 
-ComfyUI topics: Training our own LoRAs
-Intro to Python
+### Week 10 - 10/30 - Real-time AI with TouchDesigner
+Present vibe coding project
+Intro to TouchDesigner for real-time AI
+AI images with StreamDiffusion
+LLMs with DotSimulates LOPs
 
-## Week 6 10/2 - Open Studio Time
+### Week 11 - 11/06 - Real-time AI with TouchDesigner continued
+LOPs continued
+Final project assigned
 
+### Week 12 - 11/13 - Final Project Proposal Presentations
+final project proposal presentations
 Open Studio Time
 
-## Week 7 10/09  - Midterm critiques
+### Week 13 - 11/20 - Open Studio time + Prompt battle
+Work on final projects
+Prompt Battle
 
-Midterm Critiques
+### Week 14 - 11/27 - Thanksgiving Break (No Class)  
+### Week 15 - 12/04 - Critique Week (No Class)
+### Week 16 - 12/11 - Final Critiques
 
-## Week 8 10/16  - Real-time Image Generation
-
-Intro to TouchDesigner, TouchDesigner + Stable Diffusion (StreamDiffusion), FloraFauna.ai
-
-## Week 9 10/23  - 3D Worlds
-
-NeRFs + Gaussian Splatting, Text-to-3D
-
-## Week 10 10/30  - Large Language Models
-
-Final Projects assigned
-Fine tuning Large Language Models
-
-## Week 11 11/06  - Generative Audio
-
-Using publicly available data to drive your sketches
-
-## Week 12 11/13 - Autonomous Agents
-
-Autonomous Agents, LangChain, CrewAI
-
-## Week 13 11/20  - Open Studio Time
-## Week 14 11/27  - Thanksgiving No Class
-## Week 15 12/4  - Critique Week No Class
-## Week 16 12/10 - Final Critiques
-
-# Ongoing Assignments/Practices
-
-## TikTok "AI Diary"
-
-Students will "submit" weekly assignments by posting them to a private TikTok account created just for this class. Each student will follow their peers, engaging with the material they post in a loosely-structured manner.
-
-## Are.na resource sharing
-
-Each week, students will contribute one AI-related piece of content found online to the class Are.na page. These will be discussed in class at the start of class each week. Everyone must participate in these discussions! 
-
-# Required Assignments
-
-- Midterm Project
-- Final Project
-- Contribution to class Are.na + discussion
-- TikTok "AI Diary"
 
 ---
 ## SAIC Attendance and Participation Policy
