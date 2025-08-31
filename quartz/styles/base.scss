@@ -164,6 +164,7 @@ a {
 .page {
   max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
   margin: 0 auto;
+  font-size: 1.1rem;
   & article {
     & > h1 {
       font-size: 2rem;
@@ -283,8 +284,18 @@ a {
       }
     }
 
+    // .center {
+    //   max-width: 82ch;
+    // }
+
+    & .center > hr {
+      max-width: 82ch;
+      margin-left: 0;
+    }
+
     & .center > article {
       grid-area: grid-center;
+      max-width: 82ch;
     }
 
     & footer {
@@ -516,7 +527,7 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.5rem;
+  line-height: 1.6rem;
 }
 
 .table-container {
