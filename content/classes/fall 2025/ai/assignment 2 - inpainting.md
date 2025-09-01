@@ -1,6 +1,6 @@
 ---
 title: Assignment 2 - Inpainting
-draft: true
+draft: false
 description: Introductions
 ---
 ### Examples
