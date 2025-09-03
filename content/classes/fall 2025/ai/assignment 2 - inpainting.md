@@ -46,6 +46,9 @@ Simon Brodbeck and Lucie de Barbuat, Place de l'Opéra, Large format Photograph,
 https://www.leonardsuryajaya.com/
 Leonard Suryajaya, Quarantine Blues (Multiple selections from series), Large format photography, 2020
 
+![[D6546ZPWYZOZBMY54VN3X32UN4.jpg]]
+![[tinytoys.jpg]]
+Walter Wick and Jean Marzollo, I Spy books, Publication of photographs and writing
 
 
 ![[2025_NYR_23942_0007_000(roope_rainisto_the_swimming_hall060940).jpg | 800]]
@@ -69,7 +72,13 @@ Katie Morris, Mindscape, AI Image generation
 Simon Raion, Pink. Unidentified. Such a useless color!, AI image generation
 
 
+![[New-Featured-Image-1200-x-675-3.jpg]]
 
+![[W1siZiIsIjE5OTQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg]]
+
+![[888_Gursky-Boerse-Hongkong.jpg]]
+![[Andreas-Gursky-Kuwait-Stock-Exchange-II-2007.jpg]]
+Andreas Gursky, Various works, Large format photography 
 
 
 
