@@ -6,11 +6,6 @@ description: Introductions
 ### Examples
 
 
-![[ComfyUI_00005_.png | 800]]
-
-
-
-
 
 
 
