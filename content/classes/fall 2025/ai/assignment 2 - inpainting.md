@@ -80,6 +80,61 @@ Simon Raion, Pink. Unidentified. Such a useless color!, AI image generation
 ![[Andreas-Gursky-Kuwait-Stock-Exchange-II-2007.jpg]]
 Andreas Gursky, Various works, Large format photography 
 
+![[Screenshot 2025-09-03 071135.jpg]]
+![[Screenshot 2025-09-03 071714 1.jpg]]
+![[Screenshot 2025-09-03 071247 1.jpg]]
+https://marcobrambilla.com/
+Marco Brambilla, Heavens Gate (Megaplex), King Size (Megaplex), Approximations of Utopia, AI image generation, 2025
+
+![[Screenshot 2025-09-03 183630.jpg]]
+![[Screenshot 2025-09-03 183744.jpg]]
+https://vimeo.com/985118968?fl=pl&fe=vl Dan Dan Dan Video
+![[Screenshot 2025-09-03 183933.jpg]]
+https://vimeo.com/830809166?fl=pl&fe=vl Secret Station Video
+Merzmensch (Vadim Pudovkin), Everyday Commute, Dan Dan Dan, Secret Station, 2023-4, AI generated image and videos
+
+![[BETH-3.jpg]]
+
+![[BETH-2.jpg]]
+![[BETH-1.jpg]]
+https://bethfrey.com/wp-content/uploads/2025/03/Beth-Frey-intro.pdf
+Beth Frey, Sentient Muppet Factory, 2023, AI generated images
+
+![[header-NATHAN.jpg]]
+![[NATHAN-1.jpg]]
+![[NATHAN-3.jpg]]
+Nathan Boey, Unmoored, 2023, AI generated images
+
+![[header-INIGO.jpg]]
+![[INIGO-2.jpg]]
+![[INIGO-3.jpg]]
+Iñigo Bilbao, Fluxus, 2023, AI generated image
+
+![[publik-fruit-01 1.gif]]
+![[publik-fruit-03.gif]]
+![[publik-fruit-02 1.gif]]
+PUBLIKFRUIT, De Le Naught, 2023, AI generated videos
+
+
+![[header-SYNCHRODOGS.jpg]]
+![[SYNCHRODOGS-3.jpg]]
+Synchrodogs, Overture, 2023, AI generated images
+
+![[header-FELIPE.jpg]]
+![[FELIPE-1.jpg]]
+![[FELIPE-3.jpg]]
+Felipe Posada, String Theory, 2023, AI generated images
+
+
+
+
+
+
+
+
+
+
+
 
 
 
