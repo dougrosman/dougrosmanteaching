@@ -1,21 +1,8 @@
 ---
-title: Assignment 2 - Inpainting
-draft: false
+title: Week 1 - 08/28/2025
+draft: true
 description: Introductions
 ---
-Notes for Beck
-[AIartists.org](https://aiartists.org/ai-artist-founding-members)
-
-**Things for each entry:**
-1. 1-2 images from the original paper
-2. 1-2 art examples (if you can find any)
-3. image of the model diagram
-4. link to the original paper with primary author
-5. date the paper was published
-6. quick summary of the model (you can ask AI for this)
-
-gan-2014-paper-image1
-
 ## 2014
 
 ### Generative Adversarial Networks
