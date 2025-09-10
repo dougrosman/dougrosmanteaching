@@ -26,12 +26,13 @@ description: Introductions
 - **Generative Adversarial Networks** - [Original paper by Ian Goodfellow et al.](https://arxiv.org/abs/1406.2661)
 	- find the earliest example
 - **DeepDream** — gradient-ascent feature visualization turns into psychedelic art. [Google Research+1](https://research.google/blog/deepdream-a-code-example-for-visualizing-neural-networks/?utm_source=chatgpt.com)
-	- https://aiartists.org/alexander-mordvintsev
-	- https://aiartists.org/mike-tyka
+	- ART EXAMPLE https://aiartists.org/alexander-mordvintsev
+	- ART EXAMPLE https://aiartists.org/mike-tyka
 - **Neural Style Transfer (Gatys et al.)** — separate “content” and “style” with CNN feature statistics; the first mainstream style-morphing. [arXiv](https://arxiv.org/abs/1508.06576?utm_source=chatgpt.com) 
-	- https://nwn.blogs.com/nwn/2021/02/stacey-abrams-nettrice-gasksins-ai-portrait.html
+	- ART EXAMPLE https://nwn.blogs.com/nwn/2021/02/stacey-abrams-nettrice-gasksins-ai-portrait.html
 - **DCGAN** (late-2015) — CNNs make GAN training practical; births the modern GAN era. [arXiv](https://arxiv.org/abs/1503.03585?utm_source=chatgpt.com)
 	- find the literal earliest example. like the first gan generated images
+	- ART EXAMPLE: [A Book from the Sky - Gene Kogan](https://genekogan.com/works/a-book-from-the-sky/)
 # 2016–2017: conditional + image-to-image
 
 - **Text-to-image (early GANs)** — Reed et al. (GAN-CLS), **StackGAN/StackGAN++** stagewise refinement. [arXiv+1](https://arxiv.org/abs/2103.00020?utm_source=chatgpt.com)
