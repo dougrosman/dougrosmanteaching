@@ -1,20 +1,11 @@
 ---
-title: Assignment 2 - Inpainting
+title: Lecture - History of AI Images Part 1
 draft: false
 description: Introductions
 ---
 Notes for Beck
 [AIartists.org](https://aiartists.org/ai-artist-founding-members)
 
-**Things for each entry:**
-1. 1-2 images from the original paper
-2. 1-2 art examples (if you can find any)
-3. image of the model diagram
-4. link to the original paper with primary author
-5. date the paper was published
-6. quick summary of the model (you can ask AI for this)
-
-gan-2014-paper-image1
 
 ## 2014
 
@@ -32,15 +23,8 @@ Trains a generator and a discriminator in opposition (minimax), until the genera
 **Art Examples:**
 
 
-
-
-
-
-
 **Further Reading:**
 [What was the GAN? - Eryk Salvaggio](https://cyberneticforests.substack.com/p/what-was-the-gan)
-
-
 
 # 2015
 
