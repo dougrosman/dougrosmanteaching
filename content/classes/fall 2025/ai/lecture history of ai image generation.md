@@ -20,8 +20,7 @@ gan-2014-paper-image1
 
 ### Generative Adversarial Networks
 ![[GAN-Image-Distribution-1.png]]
-**Original Paper:** [Original Google Blog Post](https://research.google/blog/inceptionism-going-deeper-into-neural-networks/)- Alexander Mordvintsev, June 18, 2015
-
+**Original Paper:** [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - Ian Goodfellow, June 10, 2014
 **Model Diagram:**
 ![[Gan-Model-Architecture-1.png]]
 
@@ -33,6 +32,11 @@ Trains a generator and a discriminator in opposition (minimax), until the genera
 **Art Examples:**
 
 
+
+
+
+
+
 **Further Reading:**
 [What was the GAN? - Eryk Salvaggio](https://cyberneticforests.substack.com/p/what-was-the-gan)
 
@@ -42,7 +46,7 @@ Trains a generator and a discriminator in opposition (minimax), until the genera
 
 ### Deep Dream
 ![[DeepDream-Image-Influence.jpg]]
-**Original Paper:** [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - Ian Goodfellow, June 10, 2014
+**Original Paper:** [Original Google Blog Post](https://research.google/blog/inceptionism-going-deeper-into-neural-networks/)- Alexander Mordvintsev, June 18, 2015
 
 **Model Diagram:**
 ![[DeepDream-Model-Architecture-1.png]]
@@ -52,6 +56,15 @@ Trains a generator and a discriminator in opposition (minimax), until the genera
 A feature-visualization technique that amplifies a classifier’s internal activations via gradient ascent on the input. It is not a learned generative model of a dataset; its outputs are diagnostic, hallucinatory patterns revealing what a trained CNN “sees.”
 
 **Art Examples:**
+
+![[Alexander-Mordvintsev-Father-Cat-2015.jpg]]
+Alexander Mordvintsev, *Father Cat*, 2015
+
+
+![[Mike-Tyka-hamidmansoor123-2017-1.jpg]]
+Mike Tyka, *hamidmansoor123*, 2017
+
+
 
 ### Neural Style Transfer
 ![[Neural-Style-Transfer-Examples-1.jpg]]
@@ -63,6 +76,8 @@ A feature-visualization technique that amplifies a classifier’s internal activ
 Per-image optimization that matches content features of one image and Gram-matrix “style” statistics of another. Unlike dataset-trained generators, it does not learn a distribution; it’s a controllable, instance-wise synthesis method yielding painterly texture transfer.
 
 **Art Examples:**
+![[Nettrice-Gaskins-Stacey-Abrams-1.jpg]]
+Nettrice Gaskins, *Stacey Abrams*, 2021
 
 ### DCGAN
 ![[DCGAN-Equation.jpg]]
@@ -74,8 +89,8 @@ Per-image optimization that matches content features of one image and Gram-matri
 Introduces a stable convolutional architecture and training heuristics for GANs (e.g., strided convs, batch norm, ReLU/LeakyReLU). It markedly improves fidelity and training stability over vanilla GANs, enabling practical low-to-mid-resolution synthesis.
 
 **Art Examples:**
-
-
+![[Gene-Kogan-A-Book-From-The-Sky-2015-1.jpg]]
+Gene Kogan, *A Book From The Sky*, 2015
 
 # 2016
 
