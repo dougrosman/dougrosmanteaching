@@ -6,7 +6,7 @@ description: Introductions
 ## 2014
 
 ### Generative Adversarial Networks
-![[Pasted image 20250909185437.png]]
+![[GAN-Image-Distribution-1.png]]
 **Original Paper:** [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - Ian Goodfellow, June 10, 2014
 
 **Model Diagram:**
