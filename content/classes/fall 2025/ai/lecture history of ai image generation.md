@@ -103,7 +103,7 @@ Gene Kogan, *A Book From The Sky*, 2015
 **Summary:**
 An encoder–decoder with adversarial and reconstruction losses to fill missing regions from surrounding context. It initiates modern learned inpainting, emphasizing global plausibility with early limits on fine detail.
 
-**Art Examples:**
+
 
 
 
@@ -117,7 +117,7 @@ An encoder–decoder with adversarial and reconstruction losses to fill missing 
 **Summary:**
 Conditions GAN generation on sentence embeddings to align images with captions. It inaugurates text conditioning but with limited resolution and loose fine-grained correspondence relative to later attention-based and diffusion models.
 
-**Art Examples:**
+
 
 
 
@@ -132,7 +132,7 @@ Conditions GAN generation on sentence embeddings to align images with captions. 
 **Summary:**
 Adds perceptual and adversarial losses to prioritize photo-realistic textures over pixelwise fidelity. It differs from PSNR-oriented methods by intentionally favoring perceptual realism.
 
-**Art Examples:**
+
 
 
 ### Pix2Pix
@@ -144,7 +144,7 @@ Adds perceptual and adversarial losses to prioritize photo-realistic textures ov
 **Summary:**
 A conditional GAN trained on paired data to learn direct mappings (e.g., edges→photo). Because it requires aligned pairs, it delivers precise, controllable translations unmatched by unpaired methods.
 
-**Art Examples:**
+
 
 
 
@@ -163,7 +163,6 @@ A conditional GAN trained on paired data to learn direct mappings (e.g., edges�
 Two-stage, coarse-to-fine GANs that first synthesize low-resolution images then refine to high resolution. The staged design improves sharpness and global structure compared with single-shot generators.
 
 
-**Art Examples:**
 
 
 
@@ -177,7 +176,6 @@ Two-stage, coarse-to-fine GANs that first synthesize low-resolution images then 
 **Summary:**
 Trains by gradually increasing image resolution and network depth, stabilizing high-resolution synthesis. This curriculum enables the first consistently detailed, large-format GAN outputs.
 
-**Art Examples:**
 
 
 
@@ -191,7 +189,7 @@ Trains by gradually increasing image resolution and network depth, stabilizing h
 **Summary:**
 Discretizes latents via a learned codebook, enabling images to be represented as sequences of tokens. Unlike GANs, it emphasizes reconstruction through quantized latents, paving the way for token-based transformers.
 
-**Art Examples:**
+
 
 
 
@@ -207,7 +205,6 @@ Discretizes latents via a learned codebook, enabling images to be represented as
 **Summary:**
 Scales class-conditional GANs on ImageNet with strong regularization and large batch sizes for unprecedented fidelity and diversity. Its label conditioning and scale distinguish it from unconditional, smaller-scale predecessors.
 
-**Art Examples:**
 
 
 
@@ -220,7 +217,7 @@ Scales class-conditional GANs on ImageNet with strong regularization and large b
 **Summary:**
 Introduces a style-based generator where latent “styles” modulate features at each layer, promoting disentanglement and fine control. This architectural shift separates coarse pose/structure from fine texture more effectively than prior GANs.
 
-**Art Examples:**
+
 
 
 # 2019
@@ -234,37 +231,17 @@ Introduces a style-based generator where latent “styles” modulate features a
 **Summary:**
 Uses spatially adaptive normalization to inject semantic layouts (segmentation maps) directly into the generator. It excels at scene synthesis “from a map,” differing from text- or noise-conditioned GANs by enforcing explicit structure.
 
-**Art Examples:**
 
 
-# 2015: the spark
 
-- **Generative Adversarial Networks** - [Original paper by Ian Goodfellow et al.](https://arxiv.org/abs/1406.2661)
-	- find the earliest example
-- **DeepDream** — gradient-ascent feature visualization turns into psychedelic art. [Google Research+1](https://research.google/blog/deepdream-a-code-example-for-visualizing-neural-networks/?utm_source=chatgpt.com)
-	- https://aiartists.org/alexander-mordvintsev
-	- https://aiartists.org/mike-tyka
-- **Neural Style Transfer (Gatys et al.)** — separate “content” and “style” with CNN feature statistics; the first mainstream style-morphing. [arXiv](https://arxiv.org/abs/1508.06576?utm_source=chatgpt.com) 
-	- https://nwn.blogs.com/nwn/2021/02/stacey-abrams-nettrice-gasksins-ai-portrait.html
-- **DCGAN** (late-2015) — CNNs make GAN training practical; births the modern GAN era. [arXiv](https://arxiv.org/abs/1503.03585?utm_source=chatgpt.com)
-	- find the literal earliest example. like the first gan generated images
-# 2016–2017: conditional + image-to-image
 
-- **Text-to-image (early GANs)** — Reed et al. (GAN-CLS), **StackGAN/StackGAN++** stagewise refinement. [arXiv+1](https://arxiv.org/abs/2103.00020?utm_source=chatgpt.com)
-	- [StackGAN](https://arxiv.org/abs/1612.03242)(Dec 10 2016)
-	- [AttnGAN (Nov 28 2017)](https://arxiv.org/abs/1711.10485)
-- **pix2pix** (paired I2I) & **CycleGAN** (unpaired I2I). These become the go-to for maps↔photos, edges↔objects, etc. [arXiv+1](https://arxiv.org/abs/1611.07004?utm_source=chatgpt.com)  
-- **Inpainting**: Context Encoders (encoder–decoder + adversarial loss). [arXiv](https://arxiv.org/abs/1604.07379?utm_source=chatgpt.com)
-- **Super-resolution**: **SRGAN** kicks off perceptual, adversarial SR; **ESRGAN** raises quality. [ResearchGate](https://www.researchgate.net/publication/320968363_Photo-Realistic_Single_Image_Super-Resolution_Using_a_Generative_Adversarial_Network?utm_source=chatgpt.com)[GitHub](https://github.com/xinntao/ESRGAN?utm_source=chatgpt.com)
-# 2017–2019: scale & attention (GANs dominate)
 
-- **Progressive Growing of GANs (PGGAN)** — grow resolution during training; big realism jump. [arXiv](https://arxiv.org/abs/1710.10196?utm_source=chatgpt.com)
-- **BigGAN** — large-scale class-conditional GANs (ImageNet) with unprecedented fidelity. [arXiv](https://arxiv.org/abs/1809.11096?utm_source=chatgpt.com)
-- **StyleGAN → StyleGAN2** — style-based synthesis; disentangled controls; then artifact fixes and quality boost. (StyleGAN3 lands in 2021 with alias-free convs.) [arXiv+1](https://arxiv.org/abs/1812.04948?utm_source=chatgpt.com)
-	- only post the paper for stylegan 1, but include examples for the other 2
-- **Semantic synthesis**: **SPADE/GauGAN** for segmentation-to-photo. [GitHub](https://github.com/NVIDIA/pix2pixHD?utm_source=chatgpt.com)[arXiv](https://arxiv.org/abs/1903.07291?utm_source=chatgpt.com)
-	- **[GauGAN](https://blogs.nvidia.com/blog/gaugan-photorealistic-landscapes-nvidia-research/)**
-- **VQ-VAE / VQ-VAE-2** — discrete image tokens; sets the stage for transformers & later VQGAN. [arXiv](https://arxiv.org/abs/2112.10752?utm_source=chatgpt.com)[Stability AI](https://stability.ai/news/celebrating-one-year-of-stable-diffusion?utm_source=chatgpt.com)
+
+
+
+
+
+
 
 # 2020–early 2021: diffusion + discrete tokens + CLIP
 
