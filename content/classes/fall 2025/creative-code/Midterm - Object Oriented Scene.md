@@ -9,6 +9,11 @@ description: description
 Using the principles of Object Oriented Programming, create a lively scene filled with spontaneous interactions and procedurally generated entities.
 
 [Doug's Train Scene Example](https://dougrosman.github.io/creative-code-projects-fa25/midterm/)
+
+## Preparation
+
+Read the [**Introduction** and **chapter 1**](https://saic.instructure.com/courses/7489900/files?preview=330968548) of Ian Cheng's *Emissary's Guide To Worlding*
+
 ## Guidelines
 
 Your scene should contain the following:
@@ -21,6 +26,14 @@ Your scene should contain the following:
 3. Your scene should run autonomously and potentially forever, meaning that once it starts running, it should be able to continue running on its own.
 4. Your scene should be in **2D**, so no WEBGL for this assignment
 5. **You must code your project from scratch. Meaning, you should not augment a complex pre-existing algorithm.** For example, we will look at [Flocking](**https://p5js.org/examples/classes-and-objects-flocking/**) simulations, but you should not use the flocking algorithm (unless you want to code it yourself ;) )
+### Presentation/critique format:
+
+When you arrive to class on **Week 7**, you will set up your sketch on one of the computers in 401, so that there will be a gallery of everyone's projects running simultaneously. We'll spend some time walking around looking at each project on our own. Then, we'll come together as a class and present each project one at a time on the projector for critique.
+
+1. Your project should live in your GitHub repo for the class, and be accessible on the web via a public URL (e.g. dougrosman.github.io/creative-code-projects-fa25/midterm)
+2. Your sketch should run in fullscreen mode. Your world doesn't have to take up the entire screen, (you could have a smaller canvas in the middle, for example) but your browser window should be in fullscreen.
+
+
 
 ## How to approach this assignment
 
@@ -43,19 +56,26 @@ Due one week from today (09/24/25), present a brief proposal and diagram of your
 4. **A simple sketch:** sketch out your scene. What do you want your scene to look like, or how do you imagine it looking? This will likely change once you start writing your code.
 5. **A diagram:** detail your objects, scenes and interactions in a diagram like the one above. This diagram should be as clear as possible. ***This is what you will use to help you write your code.***
 
+### Things to consider
+
+- How do you work within your technical limitations to create something meaningful to you?
+- Focus on the things you _do_ have control over, like being intentional with color or other aesthetic decisions.
+- Complexity =/= better art :)
+- Good code =/= better art :)
+
 ## References
 
-[Doug's Train Scene Example](https://dougrosman.github.io/creative-code-projects-fa25/midterm/)
-https://www.karlsims.com/evolved-virtual-creatures.html
-https://www.random-international.com/swarm-study-/-ix
-https://reas.com/compendium_lecture/
-https://jsteinkamp.com/html/art_documentation.html
-https://alien-project.org/artworks.html
-https://www.are.na/o-moss/the-garden-03mszsmteuc
-https://quinnqwerty.github.io/hub/creatures/
-https://quinnqwerty.github.io/hub/final/
-https://www.are.na/ultimape/useful-for-simulating-ant-colonies
-https://p5js.org/tutorials/data-structure-garden/
-https://p5js.org/examples/classes-and-objects-flocking/
-[CP2: Snowstorm and Random Growth Examples – Simulation in p5.js (Jeff Thompson)](https://www.youtube.com/watch?v=aPH9qCSkedA)
-https://town.neocities.org/
+[Doug’s Train Scene Example](https://dougrosman.github.io/creative-code-projects-fa25/midterm/) 
+[https://www.karlsims.com/evolved-virtual-creatures.html](https://www.karlsims.com/evolved-virtual-creatures.html) 
+[https://www.random-international.com/swarm-study-/-ix](https://www.random-international.com/swarm-study-/-ix) 
+[https://reas.com/compendium_lecture/](https://reas.com/compendium_lecture/) 
+[https://jsteinkamp.com/html/art_documentation.html](https://jsteinkamp.com/html/art_documentation.html) 
+[https://alien-project.org/artworks.html](https://alien-project.org/artworks.html) 
+[https://www.are.na/o-moss/the-garden-03mszsmteuc](https://www.are.na/o-moss/the-garden-03mszsmteuc) 
+[https://quinnqwerty.github.io/hub/creatures/](https://quinnqwerty.github.io/hub/creatures/) 
+[https://quinnqwerty.github.io/hub/final/](https://quinnqwerty.github.io/hub/final/) [](https://www.are.na/ultimape/useful-for-simulating-ant-colonies)
+[https://www.are.na/ultimape/useful-for-simulating-ant-colonies](https://www.are.na/ultimape/useful-for-simulating-ant-colonies) 
+[https://p5js.org/tutorials/data-structure-garden/](https://p5js.org/tutorials/data-structure-garden/) 
+[https://p5js.org/examples/classes-and-objects-flocking/](https://p5js.org/examples/classes-and-objects-flocking/) 
+[CP2: Snowstorm and Random Growth Examples – Simulation in p5.js (Jeff Thompson)](https://www.youtube.com/watch?v=aPH9qCSkedA) 
+[https://town.neocities.org/](https://town.neocities.org/)
