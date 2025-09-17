@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"df44e300b6b0e9d9","type":"text","text":"### Scene Summary\n\nTrains spawn and move left or right across the screen on tracks. The look, speed, and direction of each train is generated randomly. When trains pass each other, they greet each other by blowing their horns.","x":-480,"y":-300,"width":280,"height":260,"color":"6"},
+		{"id":"00b80e965e93dbd3","type":"text","text":"### Environment\n\nHorizontal lines extend across the screen, representing train tracks. The number of train tracks depends on the height of the screen. \n\n**Option 1: standard track placement**\nEach track is spaced evenly, with enough space between them so that the trains don't overlap.\n\n**Option 2: random track placement**\nTrack placement is somewhat random, but there is a minimum vertical distance between the tracks, ensuring that the trains don't overlap","x":-160,"y":-300,"width":380,"height":440,"color":"2"},
+		{"id":"46107d8bba048bf5","type":"text","text":"### Objects\n1. Trains\n2. Train Cars","x":-480,"y":-20,"width":200,"height":160,"color":"3"},
+		{"id":"95d4ba63c93ab8c5","type":"text","text":"### Trains\n\n**Trains** are made up of **Train Cars**.\n\n#### Traits\n\n1. **trainId:** a number for each train, starting at 1\n2. **trackNumber:** the track on which the train will spawn (0 to the max number of tracks)\n3. **direction:** the horizontal direction of the train (left or right)\n4. **numCars:** the number of cars the train will have\n5. **speed:** how fast the train moves across the screen\n6. **position:** the train's position, specifically the edge of the front of the train.\n7. **hornSound:** the sound the train makes, selected randomly from a pre-created list\n8. **hornBlows:** a list of all the trains this train has interacted with","x":-480,"y":300,"width":440,"height":500,"color":"5"},
+		{"id":"57cb929a0d8a660e","x":10,"y":300,"width":420,"height":500,"color":"5","type":"text","text":"### Train Cars\n\n**Train Cars** are individual cars that spawn and connect to each other in a **Train**. Each car is a uniform rectangle, except for the front train, which has a curved front.\n\n#### Traits\n\n1. **color:** the color of the train\n2. **pattern:** the visual pattern inside the train car\n3. **cornerRoundness:** how round the corners of the train car are"}
+	],
+	"edges":[
+		{"id":"da80ecf9b6e60eb4","fromNode":"46107d8bba048bf5","fromSide":"bottom","toNode":"57cb929a0d8a660e","toSide":"top"},
+		{"id":"fd6dfdd2a363f5b6","fromNode":"46107d8bba048bf5","fromSide":"bottom","toNode":"95d4ba63c93ab8c5","toSide":"top"}
+	]
+}
