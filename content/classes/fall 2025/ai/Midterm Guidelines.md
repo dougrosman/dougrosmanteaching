@@ -24,5 +24,16 @@ Ultimately, the midterm "prompt" is conceptually open-ended: you are free to mak
 
 ## Guidelines
 1. Whatever you make for this project, **you must present it with intention!** Don't just give us a PDF of your image outputs; think about how the context or framing of your images.
-2. You don't have to use any of the specific tools I introduced in class. In fact, you are *encouraged* to work with something I have not introduced in class!
+2. You don't have to use any of the specific tools I introduced in class. In fact, you are *encouraged* to work with a tool I have not covered or introduced in class!
 
+## Proposal + proposal presentation guidelines
+**Due next week, 9/25**
+
+For your midterm proposal, you will give a brief 5-7 minute presentation to myself and the class. Create a short presentation that gives us an idea of the following:
+1. what **tools** are you thinking of you using?
+2. what **medium** are you thinking of working with mostly (image, video, installation, print, etc.)
+3. how do you plan to **approach** using the tools?
+4. what tools or processes are you curious about?
+5. how are you considering presenting your work (you may not know until you get started, but give us an idea!)
+
+You can make a slideshow, or a Milanote board, or an are.na channel, or something else, whatever you need to communicate your idea. it doesn't have to be super formal or exact, just enough for us to get what you're thinking about.
