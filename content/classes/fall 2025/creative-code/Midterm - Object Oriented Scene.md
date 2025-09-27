@@ -3,7 +3,8 @@ title: Midterm-Guidelines
 draft: false
 description: description
 ---
-
+**Proposal due:** Week 5 (9/24)
+**Midterm critiques:** Week 8 (10/15)
 ## Summary
 
 Using the principles of Object Oriented Programming, create a lively scene filled with spontaneous interactions and procedurally generated entities.

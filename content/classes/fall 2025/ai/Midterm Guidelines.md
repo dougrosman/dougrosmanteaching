@@ -4,7 +4,7 @@ draft: false
 description: Midterm Guidelines
 ---
 **Proposal due:** Week 5 (9/25)
-**Midterm critiques:** Week 7 (10/9)
+**Midterm critiques:** Week 8 (10/16)
 
 ## Summary
 
