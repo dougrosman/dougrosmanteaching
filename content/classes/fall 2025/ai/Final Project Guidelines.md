@@ -4,6 +4,7 @@ draft: false
 description: Final Project Guidelines
 ---
 **Proposal due:** Week 12 (11/13) 
+
 **Final critiques:** Week 16 (12/11)
 
 ## Proposal Requirements
