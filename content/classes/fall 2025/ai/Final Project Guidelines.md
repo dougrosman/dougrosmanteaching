@@ -8,9 +8,9 @@ description: Final Project Guidelines
 
 ## Proposal Requirements
 
-Give a 5 minute presentation. Here's how to structure your presentation:
-**Part 1: one minute:** describe your project in a nutshell. We don't need to get too into the technical details.
-**Part 2: four minutes:** find 2-4 works of art that are related to the project, or that have helped shape your thinking. At least one of the artworks you show should include AI in some way, but they don't all have to be AI works.
+Give a 5 minute presentation. Here's how to structure your presentation: 
+**Part 1: one minute:** describe your project in a nutshell. We don't need to get too into the technical details. 
+**Part 2: four minutes:** find 2-4 works of art that are related to the project, or that have helped shape your thinking. At least one of the artworks you show should include AI in some way, but they don't all have to be AI works. 
 
 ## Summary
 
