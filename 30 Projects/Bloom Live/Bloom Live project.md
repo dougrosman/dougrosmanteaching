@@ -17,6 +17,32 @@ A series of performances that use real-time AI image generation to create "video
 (List any sub-projects or related outputs as links)
 - [[Bloom Live sketch]]
 
+## Tasks
+- [x] Create module for capturing short video snippets live
+	- [x] Add clear all feature
+- [ ] Configure MediaPipe Hand detection for selecting and placing clips in composition
+- [x] Test NDI for sending video back and forth between PCs
+- [x] Install and test StreamDiffusion on PC2
+- [ ] Configure Speech-to-text live transcription with local models in TD
+	- [ ] voice transcript to prompt pipeline
+
+## Technical Info
+
+### Software
+- TouchDesigner 2025
+- To use Nvidia TOPs in TD, download Video Effects SDK from here: https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-sdk/resources/
+- Remap the camera shutter button to keyboard key that can be read by TD using **Powertoys** (default for shutter button is Volume Up...currently remapped to 0)
+- [StreamDiffusionTD 0.3.1](https://dotsimulate.com/docs/streamdiffusiontd) by DotSimulate for real-time AI video in TouchDesigner
+	- SDXL-Turbo for images
+	- Using Cuda 12.8, Python 3.11.9
+- LiveTranscribe 0.1.8 by DotSimulate for real-time local voice transcription?
+
+### Hardware
+- Primary PC: Intel i9 12900K, RTX 4070Ti Super (16GB VRAM), 32GB RAM
+- Secondary PC (AI Video): Intel i9 14900K, RTX 4090 (24GB VRAM), 32GB RAM
+- Amutek bluetooth smartphone camera shutter button
+- DJI bluetooth lavalier microphone
+
 ## Key Sources and Notes
 
 I have a bunch of modules I need to build in TouchDesigner, and things I need to figure out.
@@ -25,12 +51,10 @@ I have a bunch of modules I need to build in TouchDesigner, and things I need to
 - [ ] capture and store a snippet of live video
 	- [ ] store a bank of snippets
 - [ ] mediapipe gestures for mode switching
-- [ ] send media back and forth across the network (NDI?)
+- [x] send media back and forth across the network (NDI?)
 - [ ] use pos, pinch and rotation to position and place snippets
 
 ### On capturing and storing a bank of snippets
-
-
 
 In this performance, I need to be able to start and stop the capture of a snippet. This might benefit from a button...
 
@@ -48,9 +72,10 @@ Ok, so I have a makeshift clip recorder created. that took a little while, but y
 
 #### What is a snippet?
 
-- frames are fed from an input source to a **tex3d array**
+~~- frames are fed from an input source to a **tex3d array**
 	- the number of frames stored depends on the **cache size** parameter, where the value denotes number of frames
-	- if i'm capturing gestures on the fly, the cache size needs to be flexible and adapt based on the number of recorded frames
+	- if i'm capturing gestures on the fly, the cache size needs to be flexible and adapt based on the number of recorded frames~~
+- Snippets
 
 #### Wireless button info
 (I just ordered a remote camera shutter button (https://www.amazon.com/ATUMTEK-Smartphones-Wireless-Bluetooth-Included/dp/B0DBVKT3QS?sr=8-17)) so we'll see how that works ([Gemini convo about this](https://share.gemini.google/ATxUs89sMGk3))
@@ -60,8 +85,7 @@ Ok, so I have a makeshift clip recorder created. that took a little while, but y
 >  **How to link it to TouchDesigner:** 1. Pair the remote to your laptop via standard Bluetooth settings. 2. Open your TouchDesigner network and drop down a **Keyboard In DAT**. 3. Watch the DAT when you press the remote button to see which key it registers (it will likely be `volume_up` or `enter`). 4. Attach a **DAT to CHOP** or write a simple script inside the Keyboard In DAT's callbacks to pulse your effect switch whenever that specific key name is registered.
 >  **Pros:** Unbeatably cheap, incredibly light, and zero code or hardware modification required.
 
-## Tasks
-- [ ]
 
 ## Stopping Note
+
 My clip bank is working! it currently uses a MIDI controller to capture a clip, but this can be handled with any kind of button press. I also created a "clear all" button to dump old clips, which will come in handy later. That was quite finnicky. Next, I need to figure out how to SELECT the snippet I want (both in terms of how I want to do that in the performance, and how to implement that technically), and then I need to map that to gesture controls. After that, i'll have to figure out how that's supposed to go in the AI. (Pick up with this gemini conversation: [TouchDesigner Recording: Ram vs Disk](https://share.gemini.google/L0y3hUudbSP5))
