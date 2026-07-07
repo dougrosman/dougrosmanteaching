@@ -21,10 +21,13 @@ A series of performances that use real-time AI image generation to create "video
 - [x] Create module for capturing short video snippets live
 	- [x] Add clear all feature
 - [ ] Configure MediaPipe Hand detection for selecting and placing clips in composition
+- [x] Convert clip generation to happen in 3D space
+	- [ ] Set up Render Pick for selecting individual clips in 3D space
 - [x] Test NDI for sending video back and forth between PCs
 - [x] Install and test StreamDiffusion on PC2
 - [ ] Configure Speech-to-text live transcription with local models in TD
 	- [ ] voice transcript to prompt pipeline
+- [ ] Pipeline for sending clips over to StreamDiffusion
 
 ## Technical Info
 
@@ -87,5 +90,9 @@ Ok, so I have a makeshift clip recorder created. that took a little while, but y
 
 
 ## Stopping Note
+
+My clip bank is working (in 3D space!) today was a bit annoying in dealing with configuring software environments. in a lot of ways it was jogging in place—setting up background removal with the native nvidia background app (and downloading the SDKs for that)...then getting hand tracking at the very least *into the network.* all told though, i spent a good deal of time just futzing with getting synology drive to sync so i could move files between systems. it's a bit clunky, but it mostly seems to be working. **when i continue, i need to keep working on the clip creation and selection in 3d space**
+
+---
 
 My clip bank is working! it currently uses a MIDI controller to capture a clip, but this can be handled with any kind of button press. I also created a "clear all" button to dump old clips, which will come in handy later. That was quite finnicky. Next, I need to figure out how to SELECT the snippet I want (both in terms of how I want to do that in the performance, and how to implement that technically), and then I need to map that to gesture controls. After that, i'll have to figure out how that's supposed to go in the AI. (Pick up with this gemini conversation: [TouchDesigner Recording: Ram vs Disk](https://share.gemini.google/L0y3hUudbSP5))
