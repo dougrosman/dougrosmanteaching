@@ -28,6 +28,8 @@ A series of performances that use real-time AI image generation to create "video
 - [ ] Configure Speech-to-text live transcription with local models in TD
 	- [ ] voice transcript to prompt pipeline
 - [ ] Pipeline for sending clips over to StreamDiffusion
+### Low priority tasks
+- [ ] Fix chroma key so clips are cut out more cleanly (green fill in instead of black?)
 
 ## Technical Info
 
@@ -78,7 +80,17 @@ Ok, so I have a makeshift clip recorder created. that took a little while, but y
 ~~- frames are fed from an input source to a **tex3d array**
 	- the number of frames stored depends on the **cache size** parameter, where the value denotes number of frames
 	- if i'm capturing gestures on the fly, the cache size needs to be flexible and adapt based on the number of recorded frames~~
-- Snippets
+- Snippets are short 3-8 second video clips, captured and stored as discrete video files, encoded with HAP.
+
+### On creating a live compositing interface with hand gestures (pinch + translate, scale, rotate)
+
+**Notes:** 
+Order of operations in performance is important here, since using hand tracking to composite will require that I go up close to the camera for my hands to become legible. Alternatively, I could use my entire body, selecting with pose, and using body gestures (hand proximity for scale, midpoint between hands for position, hands rotating for rotation.) The hard part with that is that I need some way to select and de-select clips without messing up the positioning I've done. I think for now, the strategy is to build with my hands in mind (it's okay if in this version I have to walk up close to the camera.) Actually, I do have two of those clickers, I could use one of them for select/deselect if I'm using my whole body. But yeah, for now, let's build around using my hands, even though I think that the whole body as controller will be more interesting and work better conceptually. Using the hands is a bit too "interface-y"
+
+
+- [ ] Figure out which clip I'm selecting (Render Pick)
+- [ ] Select with left hand, maneuver with right hand?
+- [ ] 
 
 #### Wireless button info
 (I just ordered a remote camera shutter button (https://www.amazon.com/ATUMTEK-Smartphones-Wireless-Bluetooth-Included/dp/B0DBVKT3QS?sr=8-17)) so we'll see how that works ([Gemini convo about this](https://share.gemini.google/ATxUs89sMGk3))
@@ -91,8 +103,21 @@ Ok, so I have a makeshift clip recorder created. that took a little while, but y
 
 ## Stopping Note
 
+2026.07.08, 3:50p
+**Summary**
+Well, it took a while to get my PC at home back up and running. I had to re-install a bunch of things, so I didn't have as much time to work today as I had planned. I also got stuck with dealing with a rather important issue, which was z-fighting with the clips. With Gemini's help ([link to convo](https://share.gemini.google/1TbzBQSzWlbJ)), I was able to solve that problem! I have a bunch of clips all occupying their own slice on the z-axis, with transparency.
+
+**Pick up here**
+Now, I need to actually implement the render pick to make sure that I can grab the clips. I still need to figure out the best way to do this (hands, body), but I think I'll begin by testing with the mouse. I also want that "bring to front" feature that gemini suggested. Then...i have to figure out when and how to do the AI stuff. One clip at a time vs. the entire composition all at once...
+
+---
+
+2026.07.08, 5:00pm
+
 My clip bank is working (in 3D space!) today was a bit annoying in dealing with configuring software environments. in a lot of ways it was jogging in place—setting up background removal with the native nvidia background app (and downloading the SDKs for that)...then getting hand tracking at the very least *into the network.* all told though, i spent a good deal of time just futzing with getting synology drive to sync so i could move files between systems. it's a bit clunky, but it mostly seems to be working. **when i continue, i need to keep working on the clip creation and selection in 3d space**
 
 ---
+
+2026.07.04, 6:30pm
 
 My clip bank is working! it currently uses a MIDI controller to capture a clip, but this can be handled with any kind of button press. I also created a "clear all" button to dump old clips, which will come in handy later. That was quite finnicky. Next, I need to figure out how to SELECT the snippet I want (both in terms of how I want to do that in the performance, and how to implement that technically), and then I need to map that to gesture controls. After that, i'll have to figure out how that's supposed to go in the AI. (Pick up with this gemini conversation: [TouchDesigner Recording: Ram vs Disk](https://share.gemini.google/L0y3hUudbSP5))
