@@ -103,6 +103,15 @@ Order of operations in performance is important here, since using hand tracking 
 
 ## Stopping Note
 
+2026.07.09, 9:20pm
+**Summary**
+Wow, 3D render picking, what a headache! After some annoying (but ultimately educational) detours thanks to gemini, i managed to finally get the render pick with mediapipe to work. Essentially, the midpoint between my index finger and thumb successfully identifies which clip it is hovering over. I have more to say about this later, and I'd like to go back and study this 3D rendering stuff a bit more but I learned quite a lot (I think?) **But wow, it sure feels amazing to see the Render Pick DAT correctly show which clip i'm hovering over.**
+
+**Pick up here**
+Well, there is still much to do, but the rest kind of feels like managing a bunch of systems and making sure things happen in the order they need to. For now, I need to implement the select-->drag and drop-->deselect flow. And then, well...then I have to kind of do all of that with the AI. Just some quick musing, I think that maybe when a clip is selected, it is automatically sent via NDI over to the AI, which has its own separate controls on that machine. **I think that for each clip being passed through, I need to swap in the AI version before the Trace happens. Hopefully keeping the diffusion steps all the way down (and thus preserving the original images), will result in the same traced mask so that i can do a nice fade between the original image and the AI.**
+
+---
+
 2026.07.08, 3:50p
 **Summary**
 Well, it took a while to get my PC at home back up and running. I had to re-install a bunch of things, so I didn't have as much time to work today as I had planned. I also got stuck with dealing with a rather important issue, which was z-fighting with the clips. With Gemini's help ([link to convo](https://share.gemini.google/1TbzBQSzWlbJ)), I was able to solve that problem! I have a bunch of clips all occupying their own slice on the z-axis, with transparency.
