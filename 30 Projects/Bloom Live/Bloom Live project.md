@@ -103,6 +103,12 @@ Order of operations in performance is important here, since using hand tracking 
 
 ## Stopping Note
 
+2026.07.10, 8:40pm
+**Summary**
+Got the drag and drop working. still need to implement scale, rotation. Currently stuck trying to install voice transcription stuff. the wifi
+
+---
+
 2026.07.09, 9:20pm
 **Summary**
 Wow, 3D render picking, what a headache! After some annoying (but ultimately educational) detours thanks to gemini, i managed to finally get the render pick with mediapipe to work. Essentially, the midpoint between my index finger and thumb successfully identifies which clip it is hovering over. I have more to say about this later, and I'd like to go back and study this 3D rendering stuff a bit more but I learned quite a lot (I think?) **But wow, it sure feels amazing to see the Render Pick DAT correctly show which clip i'm hovering over.**
