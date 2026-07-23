@@ -7,4 +7,4 @@ description:
 date: 2026-07-26
 ---
  
-The rest of your content lives here. You can use **Markdown** here :)
+Add some stuff here
