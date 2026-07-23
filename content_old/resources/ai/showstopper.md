@@ -13,12 +13,12 @@ https://www.avclub.com/read-this-showrunner-netflix-of-ai-interviewer
 
 Videos are presented in the order I encountered/generated them.
 
-![[Tutorial_intro_v3_compressed3.mp4]]01 *Tutorial Video. This is the first video you encounter in the Discord Server, explaining how to create your own "scene."*
+![[content_old/resources/ai/attachments/Tutorial_intro_v3_compressed3.mp4]]01 *Tutorial Video. This is the first video you encounter in the Discord Server, explaining how to create your own "scene."*
 
 
 
 
-![[SC02_Donald_says_Yes_Sh_2025_02_12T21_52_09_929Z_20250831021229631a.mp4]]  
+![[content_old/resources/ai/attachments/SC02_Donald_says_Yes_Sh_2025_02_12T21_52_09_929Z_20250831021229631a.mp4]]  
 02 Note: I wrote the "redo prompt"  
 
 *Click here to make your scene: /scene*  
@@ -35,7 +35,7 @@ Videos are presented in the order I encountered/generated them.
 
 
 
-![[SC03_Donald_says_Yes_Sh_2025_02_12T21_52_09_929Z_20250831021618136a.mp4]]  
+![[content_old/resources/ai/attachments/SC03_Donald_says_Yes_Sh_2025_02_12T21_52_09_929Z_20250831021618136a.mp4]]  
 03 Note: the "AI Continue Prompt" makes a totally AI-generated next scene. I did not write the prompt.  
 
 *Click here to make your scene: /scene*  
@@ -50,7 +50,7 @@ Videos are presented in the order I encountered/generated them.
 *Created for: @Doug Rosman*  
   
   
-![[SC04_Donald_says_Yes_Sh_2025_02_12T21_52_09_929Z_20250831023228960a.mp4]]  
+![[content_old/resources/ai/attachments/SC04_Donald_says_Yes_Sh_2025_02_12T21_52_09_929Z_20250831023228960a.mp4]]  
 04 Note: this was the "AI Crazified Prompt" option, which I clicked after watching the previous generated video.  
   
 *Click here to make your scene: /scene*  
@@ -74,7 +74,7 @@ I don't have a screenshot, but the body I thought I was picking was a version of
 
 ![[Photo on 8-30-25 at 10.35 PM.jpg | 400]] 
 
-![[SC00_Dou_talks_to_his_dop_2025_08_31T02_41_46_469Z_20250831024247863a.mp4]]  
+![[content_old/resources/ai/attachments/SC00_Dou_talks_to_his_dop_2025_08_31T02_41_46_469Z_20250831024247863a.mp4]]  
 05 Note: This was the first scene I generated with my character Dou Grosman
 
 **Show**  
@@ -97,7 +97,7 @@ No video clip
 **Filter**  
 No filter
 
-![[SC01_Dou_talks_to_his_dop_2025_08_31T02_41_46_469Z_20250831024936018a.mp4]]  
+![[content_old/resources/ai/attachments/SC01_Dou_talks_to_his_dop_2025_08_31T02_41_46_469Z_20250831024936018a.mp4]]  
 06 Note: The "Redo Prompt" takes a prompt and generates dialog based on it. The dialog was not what I was hoping for.
 
 ***Redo Prompt:** I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND I'M GOING INSANE I'M LOSING MY MIND*
@@ -105,7 +105,7 @@ No filter
 <br>
 <br><br><br>
 
-![[SC01_Dou_talks_to_his_dop_2025_08_31T02_41_46_469Z_20250831025846918a.mp4]]  
+![[content_old/resources/ai/attachments/SC01_Dou_talks_to_his_dop_2025_08_31T02_41_46_469Z_20250831025846918a.mp4]]  
 07 Note: This used the "edit script" function, meaning the text below is the dialog I wrote, not generated based on a prompt. The shot choices and emotional inflection were already there from the previous video, I left them untouched (not that the emotion ended up mattering).
 
 *DOU GROSMAN: I'M GOING INSANE I'M LOSING MY MNND*  
@@ -137,7 +137,7 @@ No filter
 *Angry*  
   
   
-![[SC01_Dou_talks_to_his_dop_2025_08_31T02_41_46_469Z_20250831030432131a.mp4]]  
+![[content_old/resources/ai/attachments/SC01_Dou_talks_to_his_dop_2025_08_31T02_41_46_469Z_20250831030432131a.mp4]]  
 08 This was a second script edit. I lost my mind.
 
 ***DOU GROSMAN:** AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH*

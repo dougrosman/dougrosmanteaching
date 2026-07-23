@@ -10,10 +10,10 @@ Notes for Beck
 ## 2014
 
 ### Generative Adversarial Networks
-![[GAN-Image-Distribution-1.png]]
+![[content_old/classes/fall 2025/ai/attachments/GAN-Image-Distribution-1.png]]
 **Original Paper:** [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) - Ian Goodfellow, June 10, 2014
 **Model Diagram:**
-![[Gan-Model-Architecture-1.png]]
+![[content_old/classes/fall 2025/ai/attachments/Gan-Model-Architecture-1.png]]
 
 **Abstract:** We propose a new framework for estimating generative models via an adversarial process, in which we simultaneously train two models: a **generative model G** that captures the data distribution, and a **discriminative model D** that estimates the probability that a sample came from the training data rather than G. The training procedure for G is to maximize the probability of D making a mistake. This framework corresponds to a minimax two-player game. In the space of arbitrary functions G and D, a unique solution exists, with G recovering the training data distribution and D equal to 1/2 everywhere. In the case where G and D are defined by multilayer perceptrons, the entire system can be trained with **backpropagation**. There is no need for any Markov chains or unrolled approximate inference networks during either training or generation of samples. Experiments demonstrate the potential of the framework through qualitative and quantitative evaluation of the generated samples.
 
@@ -29,11 +29,11 @@ Trains a generator and a discriminator in opposition (minimax), until the genera
 # 2015
 
 ### Deep Dream
-![[DeepDream-Image-Influence.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/DeepDream-Image-Influence.jpg]]
 **Original Paper:** [Original Google Blog Post](https://research.google/blog/inceptionism-going-deeper-into-neural-networks/)- Alexander Mordvintsev, June 18, 2015
 
 **Model Diagram:**
-![[DeepDream-Model-Architecture-1.png]]
+![[content_old/classes/fall 2025/ai/attachments/DeepDream-Model-Architecture-1.png]]
 
 
 **Summary:**
@@ -41,49 +41,49 @@ A feature-visualization technique that amplifies a classifier’s internal activ
 
 **Art Examples:**
 
-![[Alexander-Mordvintsev-Father-Cat-2015.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/Alexander-Mordvintsev-Father-Cat-2015.jpg]]
 Alexander Mordvintsev, *Father Cat*, 2015
 
 
-![[Mike-Tyka-hamidmansoor123-2017-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/Mike-Tyka-hamidmansoor123-2017-1.jpg]]
 Mike Tyka, *hamidmansoor123*, 2017
 
 
 
 ### Neural Style Transfer
-![[Neural-Style-Transfer-Examples-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/Neural-Style-Transfer-Examples-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/pdf/1508.06576) - Leon A. Gatys, August 26, 2015
 
-**Model Diagram:**![[Neural-Transfer-Model-Architecture-1.jpg]]
+**Model Diagram:**![[content_old/classes/fall 2025/ai/attachments/Neural-Transfer-Model-Architecture-1.jpg]]
 
 **Summary:**
 Per-image optimization that matches content features of one image and Gram-matrix “style” statistics of another. Unlike dataset-trained generators, it does not learn a distribution; it’s a controllable, instance-wise synthesis method yielding painterly texture transfer.
 
 **Art Examples:**
-![[Nettrice-Gaskins-Stacey-Abrams-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/Nettrice-Gaskins-Stacey-Abrams-1.jpg]]
 Nettrice Gaskins, *Stacey Abrams*, 2021
 
 ### DCGAN
-![[DCGAN-Equation.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/DCGAN-Equation.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1511.06434) - Alec Radford, November 19, 2015
 
 **Model Diagram:
-![[DCGAN-Model-Architecture-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/DCGAN-Model-Architecture-1.jpg]]
 **Summary:**
 Introduces a stable convolutional architecture and training heuristics for GANs (e.g., strided convs, batch norm, ReLU/LeakyReLU). It markedly improves fidelity and training stability over vanilla GANs, enabling practical low-to-mid-resolution synthesis.
 
 **Art Examples:**
-![[Gene-Kogan-A-Book-From-The-Sky-2015-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/Gene-Kogan-A-Book-From-The-Sky-2015-1.jpg]]
 Gene Kogan, *A Book From The Sky*, 2015
 
 # 2016
 
 ### Context Encoders - Inpainting
-![[Context-Encoders-Examples-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/Context-Encoders-Examples-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1604.07379) - Deepak Pathak, April 26, 2016
 
 **Model Diagram:
-![[Context-Encoders-Model-Architecture-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/Context-Encoders-Model-Architecture-1.jpg]]
 **Summary:**
 An encoder–decoder with adversarial and reconstruction losses to fill missing regions from surrounding context. It initiates modern learned inpainting, emphasizing global plausibility with early limits on fine detail.
 
@@ -93,7 +93,7 @@ An encoder–decoder with adversarial and reconstruction losses to fill missing 
 
 
 ### Text-To-Image 
-![[TTI-GAN-Zero-Shot-Generation-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/TTI-GAN-Zero-Shot-Generation-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/pdf/1605.05396) - Scott Reed, May 17, 2016
 
 **Model Diagram:
@@ -108,10 +108,10 @@ Conditions GAN generation on sentence embeddings to align images with captions. 
 
 ### SRGAN
 
-![[SRGAN-Example-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/SRGAN-Example-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1609.04802) - Christian Ledig, September 15, 2016
 
-**Model Diagram:![[SRGAN-Model-Architecture-1.jpg]]
+**Model Diagram:![[content_old/classes/fall 2025/ai/attachments/SRGAN-Model-Architecture-1.jpg]]
 
 **Summary:**
 Adds perceptual and adversarial losses to prioritize photo-realistic textures over pixelwise fidelity. It differs from PSNR-oriented methods by intentionally favoring perceptual realism.
@@ -120,10 +120,10 @@ Adds perceptual and adversarial losses to prioritize photo-realistic textures ov
 
 
 ### Pix2Pix
-![[Pix2Pix-Examples-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/Pix2Pix-Examples-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1611.07004) - Phillip Isola, November 26, 2016
 
-**Model Diagram:![[Pix2Pix-Model-Architecture-1.jpg]]
+**Model Diagram:![[content_old/classes/fall 2025/ai/attachments/Pix2Pix-Model-Architecture-1.jpg]]
 
 **Summary:**
 A conditional GAN trained on paired data to learn direct mappings (e.g., edges→photo). Because it requires aligned pairs, it delivers precise, controllable translations unmatched by unpaired methods.
@@ -138,11 +138,11 @@ A conditional GAN trained on paired data to learn direct mappings (e.g., edges�
 
 
 ### STACKGAN
-![[STACKGAN-TTIGAN-Comparison-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/STACKGAN-TTIGAN-Comparison-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1612.03242) - Han Zhang August 5, 2017
 
 **Model Diagram:
-![[STACKGAN-Model-Architecture-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/STACKGAN-Model-Architecture-1.jpg]]
 **Summary:**
 Two-stage, coarse-to-fine GANs that first synthesize low-resolution images then refine to high resolution. The staged design improves sharpness and global structure compared with single-shot generators.
 
@@ -152,10 +152,10 @@ Two-stage, coarse-to-fine GANs that first synthesize low-resolution images then 
 
 
 ### PGGAN
-![[PGGAN-Example-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/PGGAN-Example-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1710.10196) - Tero Karras, October 27, 2017
 
-**Model Diagram:![[PGGAN-Model-Archoitecture-1.jpg]]
+**Model Diagram:![[content_old/classes/fall 2025/ai/attachments/PGGAN-Model-Archoitecture-1.jpg]]
 
 **Summary:**
 Trains by gradually increasing image resolution and network depth, stabilizing high-resolution synthesis. This curriculum enables the first consistently detailed, large-format GAN outputs.
@@ -165,10 +165,10 @@ Trains by gradually increasing image resolution and network depth, stabilizing h
 
 
 ### VQ-VAE
-![[VQVAE-Comparison-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/VQVAE-Comparison-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1711.00937) - Aaron van den Oord, November 2, 2017
 
-**Model Diagram:![[VQVAE-Model-Architecture-1.jpg]]
+**Model Diagram:![[content_old/classes/fall 2025/ai/attachments/VQVAE-Model-Architecture-1.jpg]]
 
 **Summary:**
 Discretizes latents via a learned codebook, enabling images to be represented as sequences of tokens. Unlike GANs, it emphasizes reconstruction through quantized latents, paving the way for token-based transformers.
@@ -181,11 +181,11 @@ Discretizes latents via a learned codebook, enabling images to be represented as
 
 
 ### BigGAN 
-![[BigGAN-Examples-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/BigGAN-Examples-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1809.11096) - Andrew Brock, September 28, 2018
 
 **Model Diagram:
-![[BigGAN-Model-Architecture-1.png]]
+![[content_old/classes/fall 2025/ai/attachments/BigGAN-Model-Architecture-1.png]]
 **Summary:**
 Scales class-conditional GANs on ImageNet with strong regularization and large batch sizes for unprecedented fidelity and diversity. Its label conditioning and scale distinguish it from unconditional, smaller-scale predecessors.
 
@@ -193,11 +193,11 @@ Scales class-conditional GANs on ImageNet with strong regularization and large b
 
 
 ### StyleGAN 1/2/3
-![[StyleGAN-Example-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/StyleGAN-Example-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1812.04948) - Tero Karras, December 12, 2018
 
 **Model Diagram:
-![[StyleGAN-Model-Architecture-1.png]]
+![[content_old/classes/fall 2025/ai/attachments/StyleGAN-Model-Architecture-1.png]]
 **Summary:**
 Introduces a style-based generator where latent “styles” modulate features at each layer, promoting disentanglement and fine control. This architectural shift separates coarse pose/structure from fine texture more effectively than prior GANs.
 
@@ -207,11 +207,11 @@ Introduces a style-based generator where latent “styles” modulate features a
 # 2019
 
 ### SPADE - GauGAN
-![[SPADE-GauGAN-Example-1.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/SPADE-GauGAN-Example-1.jpg]]
 **Original Paper:** [Original Paper](https://arxiv.org/abs/1903.07291) - Taesung Park, March 18, 2019
 
 **Model Diagram:
-![[SPADE-GauGAN-Model-Arechitecture.jpg]]
+![[content_old/classes/fall 2025/ai/attachments/SPADE-GauGAN-Model-Arechitecture.jpg]]
 **Summary:**
 Uses spatially adaptive normalization to inject semantic layouts (segmentation maps) directly into the generator. It excels at scene synthesis “from a map,” differing from text- or noise-conditioned GANs by enforcing explicit structure.
 

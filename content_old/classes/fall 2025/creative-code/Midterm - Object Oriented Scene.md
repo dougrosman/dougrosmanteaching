@@ -43,7 +43,7 @@ When you arrive to class on **Week 7**, you will set up your sketch on one of t
 3. **Start your code:** Work on it from the bottom up. First, work on the smallest element of your scene (e.g., a single train car). Then, work on parent element (e.g. an entire train car). If you don't have any parent elements, that's okay!
 
 
-![[train-scene-diagram.png]]
+![[content_old/classes/fall 2025/creative-code/attachments/train-scene-diagram.png]]
 
 
 ## Proposal Guidelines

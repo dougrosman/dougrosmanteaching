@@ -21,7 +21,7 @@ publish: true
 **Contact:**
 
 ## Navigation
-- [[syllabus|Syllabus]]
+- [[content_old/classes/fall 2025/ai/syllabus|Syllabus]]
 
 ### Weekly Schedule
 | Week                       | Date | Topic | Assignments Due |
