@@ -1,0 +1,2 @@
+- **run local build** `npx quartz build --serve`
+- 
