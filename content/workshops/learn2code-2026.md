@@ -34,3 +34,26 @@ date: 2026-07-26
 2. Experiment with p5.js
 3. Create and publish a website on GitHub Pages
 4. Set up a Python environment, use AI to write a simple script.
+
+
+### Resources
+
+#### p5.js & Creative Coding
+- [The Coding Train](https://thecodingtrain.com/) — Beginner-friendly coding tutorials and challenges in p5.js and Processing, run by Daniel Shiffman.
+- [Patt Vira (Youtube)](https://www.youtube.com/@pattvira) — Playful, project-based creative coding tutorials for beginners.
+- [Gorilla Sun](https://www.gorillasun.de/) — A blog of tutorials and essays on creative coding, generative art, and computational design.
+- [The Nature of Code (book)](https://natureofcode.com/) — Daniel Shiffman's book (free online) on simulating natural systems with code, using p5.js.
+
+#### TouchDesigner
+- [Elektronaut (Bileam) (Youtube)](https://www.youtube.com/@elekktronaut) — Tutorials on building audio-reactive and generative visuals in TouchDesigner.
+- [Interactive and Immersive HQ (Youtube)](https://www.youtube.com/@TheInteractiveImmersiveHQ) — TouchDesigner tutorials and resources for interactive and immersive installation work.
+- [Acrylicode (Youtube)](https://www.youtube.com/channel/UC6kz8lb80gitsmjx0gnZC8Q) — Calm, methodical beginner crash courses and project breakdowns in TouchDesigner.
+
+#### AI & Machine Learning Art
+- [Artificial Images (Youtube)](https://www.youtube.com/channel/UCaZuPdmZ380SFUMKHVsv_AA) — Demos and explanations of making art with machine learning tools.
+- [ml5.js](https://ml5js.org/) — A friendly, browser-based machine learning library built for artists and creative coders, designed to pair with p5.js.
+
+#### General Programming
+- [samwho.dev](https://samwho.dev/) — Well-written and approachable visual essays that explain complicated technical concepts related to algorithms and computation
+- [Freecodecamp](https://www.freecodecamp.org/) — Free, self-paced curriculum covering web development and programming fundamentals.
+- [Free/open resources for learning Python](https://posts.decontextualize.com/python-resources/) — Curated by Allison Parrish
