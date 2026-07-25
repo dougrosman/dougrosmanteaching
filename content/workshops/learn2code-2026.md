@@ -55,15 +55,29 @@ https://www.instagram.com/p/Dal8D1bjswF/?img_index=1
 
 ## 3 The command line
 
+The command line, which we access through a *terminal*, is a way to control your computer through written commands. You can navigate files, execute programs, and change how your operating system functions. The command line preceded the graphical user interfaces we're used to (clicking on buttons with a mouse), and is traditionally how people have interfaced with computers.
+
+The command line has taken on a new valence of importance in the wake of agentic AI models. Since AI models rely on text, the command line—as a text-based interface—is what allows AI models to perform so many functions on your computer.
+
 ## 4 Markdown
+
+Markdown is a widely-used "plaintext" language, and increasingly, another fundamental building block for how people prompt AI agents. I use markdown for note-taking in Obsidian, and then publish these simple markdown pages as web pages
 
 ## 5 "Creative Coding" with p5.js
 
+Go to the [p5.js web editor](https://editor.p5js.org/)
+
 ## 6 Making a Website
+
+More coming soon!
 
 ## 7 "Create a Python script that..."
 
+More coming soon!
+
 ## 8 On TouchDesigner
+
+More coming soon!
 
 ## 9 Questions, open time
 
