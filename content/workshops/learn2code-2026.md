@@ -5,7 +5,7 @@ tags:
 description: An online introduction to (creative) coding and software for media artists
 date: 2026-07-26
 ---
-![[download (4).png]]
+![[learn2code2026-banner.png]]
 https://editor.p5js.org/dougrosman/sketches/Ja8iV6-Ue
 ## ✩⋰ Overview ⋱✩
 
@@ -38,7 +38,7 @@ This workshop introduces code broadly as an expressive medium, and as a tool—a
 
 ## 2 What, where, how, why code?
 
-![[Pasted image 20260724172827.png]]
+![[allison-parrish-quote.png]]
 https://www.instagram.com/p/Dal8D1bjswF/?img_index=1
 
 > i haven't really gotten Political about this on insta, but i didn't use generative AI for any part of this project, not coding, not pcb design, not text annotation, and i don't use it anywhere else in my creative or production process either. can you imagine—refusing to savor even the smallest drop of the joys of attention and making—shirking even the smallest part of my duty to make and share knowledge—yuk
@@ -70,6 +70,7 @@ Go to the [p5.js web editor](https://editor.p5js.org/)
 ## 6 Making a Website
 
 More coming soon!
+![[learn2code-2026-draw.png]]
 
 ## 7 "Create a Python script that..."
 
