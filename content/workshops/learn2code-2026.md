@@ -373,7 +373,7 @@ For all the HTML and CSS knowledge we have—which isn't much—I think it's gen
 
 ```html
 <!-- copy this exact line out of index.html in the p5.js web editor -->
-<script src="https://cdn.jsdelivr.net/npm/p5@x.x.x/lib/p5.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/p5@1.11.13/lib/p5.js"></script>
 ```
 
 Now your canvas shows up.
