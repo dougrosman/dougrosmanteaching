@@ -1,0 +1,254 @@
+---
+title: AI-FA26-Syllabus
+draft: false
+tags:
+description: AI - ATSP 4144 Syllabus
+date: 2026-08-24
+---
+# Syllabus - ATSP 4022 - AI - Fall 2026
+
+**Course Title:** AI  
+**Semester:** Fall 2026  
+**Catalog Number:** 4022 | **Class Number:** 1152 | **Section:** 001 | **Credits:** 3  
+**Location:** MacLean 402  
+
+**Time:** Thursdays, 9am-3pm (August 27-December 10)  
+**Instructor:** Douglas Rosman (he/him) (Preferred name: Doug)  
+**Email:** drosma@artic.edu (you can also send me a message in Canvas)  
+**Office Hours:** Available by appointment (send me an email to schedule)  
+
+**TA:** Nickii Schamborski (they/them)  
+**TA Email:** nscham@artic.edu
+
+****
+
+## Course Description
+
+'Artificial Intelligence' (AI) has infiltrated many corners of our lives. Once used primarily to identify, track, and predict things in the world, AI–a convenient shorthand for machine learning–has now become generative: producing images, language, and anything else that can be parsed as data. Through a hands-on curriculum, students will explore AI tools to create images, video, audio and more, and will approach these AI systems as tools to augment a creative practice, as well as a medium and material in themselves. This course foregrounds experimentation and play as a means to develop a critical understanding of AI and the ethical implications of its use in creative production (and beyond), engaging in discourse around ideas of authenticity, authorship, and labor.
+
+Ultimately, students will leave this class with a broad understanding of how AI operates in the world today, and what it means to incorporate this technology into a creative practice. The course will be technically rigorous, emphasizing a broad exploration of generative AI tools including but not limited to: text-to-image models like Stable Diffusion, text-to-video, Large Language Models, Generative Adversarial Networks (GANs), and generative audio. Although having coding experience will benefit students, this course emphasizes flexibility with technology and software over coding proficiency. Readings and screenings will draw from the work of artists and thinkers like Sofia Crespo, Memo Akten, Mario Klingemann, Hito Steyerl, Trevor Paglen, Joy Buolamwini, Sarah Meyohas, Anna Ridler and Alex Mordvintsev who have been engaging critically with AI since the mid-2010s.
+
+Students will work individually and collaboratively on smaller scale projects early in the semester, producing and sharing works each week. The course will culminate in a larger scale final project and critique. Students will also maintain a 'sketchbook' documenting their experiments and methods throughout the semester.
+
+## AI Baggage
+
+Working with "AI" may elicit what the artist Alan Warburton calls a "wonder-panic" response: a feeling of wonder for all of the strange and exciting possibilities of these tools, and panic when we confront the well-documented horrors inextricable from AI. How do we contend with using image-generating models trained on countless artists' stolen work? Or Large Language Models whose training depends on subjecting certain populations to traumatic work conditions? What about the environmental impact of these tools, or their use in surveillance, policing and warfare? How is our work as artists implicated in/complicated by these contexts?
+
+This class takes the position that it is crucial for artists to engage with these technologies with openness and playfulness, coupled with criticality and a healthy skepticism. "AI" is as much a tool as it is a material, and as with any art practice, it is the responsibility of the artist to consider the origin and use of their materials. It is my hope and intention that this classroom provide a safe and generative space to explore this wondrous and panic-inducing technology, so that we understand what is at stake when do.
+
+## AI Content Warning
+
+AI tools are inherently unpredictable, and the outputs of these models can sometimes be troubling, disturbing, and "not safe for work". This is especially true with open source text-to-image models we will work with like Stable Diffusion. Open source models can be used without the censors and safety modifications imposed by commercial platforms like ChatGPT or Midjourney, which (attempt to) prevent users from generating graphic sexual or violent content. This lack of restriction can be creatively desirable, but also open us up to the risk of generating graphic images–regardless of our intention.
+
+## Learning Goals
+
+*At the end of this course, students will...*
+
+- Attain a high-level understanding of AI as an assemblage of technical systems and ideas, and be able use that knowledge to work critically with AI as a tool, a material, and a context
+- Develop a vocabulary around these rapidly evolving technologies in order to effectively contextualize the use of AI in their work.
+- Gain comfort in utilizing both closed and open source AI tools to explore media synthesis including but not limited to image, video, audio, text, and code generation.
+- Develop a historical understanding of the social and cultural impacts of AI, including the conditions that foster its development, and the ways it shapes our world.
+## Student Learning Outcomes
+
+*At the end of this course, students will...*
+
+- Demonstrate a safe and advanced technical skill in their use of materials, including specialized, unique, or unusual tools and techniques in relation to AI media synthesis and AI-assisted creative workflows.
+- Select well-researched material choices and technical approaches that are appropriate for the content, quality and/or effectiveness of their creative/research inquiry, understanding the nuances of different AI models, how they may or may not work together, and the environmental impact of their processes.
+- Synthesize and integrate advanced iterative working methods to conceptualize, develop and create products/practices that demonstrate ambition, creativity and/or innovation; individually or in collaboration.
+- Demonstrate an advanced contextual knowledge that integrates the histories and cultural narratives around AI to inform their own practice.
+- Synthesize interdisciplinary discourses, media, processes, and technologies in the practice of AI-influenced or AI-derived artistic production.
+- Advocate for inclusion and representation in artistic practice and intellectual discourse, taking particular care to acknowledge the outsize harms to specific demographics caused by AI technologies.
+- Present culminating work with clarity, creativity, and impact, and that demonstrates intentionality.
+
+## Receiving Credit for this Course
+
+- Complete and present a midterm project
+- Complete and present a final project
+- Contribute at least 5 items to the class Are.na page
+
+## Being on Time
+
+- Please arrive at 9:00am to give yourself time to settle in
+- Lectures will begin promptly at 9:05am. By 9:05, you should:
+	- save and close any program, project or assignment unrelated to this class
+	- have something ready for note taking
+	- make sure your computer has enough battery, or that your charger is plugged in
+
+## Course Budget
+$20-60 for various subscriptions to AI platforms
+
+## Course Materials
+
+[Weekly Materials Google Doc](https://docs.google.com/document/d/1P059I5V2QXJMDkDsl1BTMO0neTq399uON4D15hNTE9U/edit?usp=sharing) - All class material can be found here.
+[Canvas Page](https://saic.instructure.com/courses/7489936) - Assignments will be posted here
+[Are.na](https://www.are.na/) - a space to share interesting references
+
+Although this class will prioritize generative applications of AI, *you are allowed and encouraged to explore any and all things related to AI.* I will do my best to support you all in your specific interests. You are encouraged, but not required to follow all of the in class demos or material we cover. If you know what you want to focus on, go for that.
+
+## Texts++
+*All texts/videos will be provided in our Weekly Materials Google Docs, or uploaded to our Canvas Files page. Text excerpts will assigned when appropriate.
+
+- Medium Hot: Images in the Age of Heat (2025), Hito Steyerl
+- Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence (2022), James Bridle
+- Artificial Intelligence: A Guide for Thinking Humans (2019), Melanie Mitchell
+- https://anatomyof.ai/, Kate Crawford, Vladan Joler
+- Am I Slop? Am I Agentic? Am I Earth? Identity in the Age of Neural Media (2025), K Allado-McDowell
+
+## Course Schedule
+*Note: there is a ton of possible material we could cover in this class. Below is a loose outline of what I think we should cover in class, but all of this is flexible and open to change based on the interests of the class. There are so many things to include related to AI; resources for other material will be provided as needed.*
+
+### Week 01 - 08/27 - Introductions, what is AI?
+introductions
+course overview
+set up our tools
+Introduction to Stable Diffusion and ComfyUI for local image generation
+
+### Week 02 - 09/03 - Open + Closed Source Image Making 
+History of AI images
+Intermediate tools and workflows with ComfyUI: controlnet, inpainting, outpainting, ipadapter, upscaling
+
+### Week 03 - 09/10 - AI Video and Audio
+Local open source video with animatediff + controlnet, wan2.2
+Upscaling with Topaz
+Closed source video with Sora, Kling, Veo and Runway
+Audio generation
+
+### Week 04 - 09/17 - AI Video continued with FLORA
+Visiting talk from Ethan Proia of FLORA AI (9:45a CST)
+Work with FLORA
+Midterm assigned
+
+### Week 05 - 09/24 - Open Studio
+Workshop requests
+Open studio time to work on Midterm
+
+### Week 06 - 10/01 - Midterm presentations
+Present midterms
+
+### Week 07 - 10/08 - Large Language Models
+Intro to closed source LLMs (ChatGPT, Claude, Gemini, etc.)
+Intro to open source/local LLMs (Ollama)
+
+### Week 08 - 10/15 - Vibe Coding
+Make something through the process of "Vibe Coding"
+
+### Week 09 - 10/22 - Vibe Coding continued
+Substitute (TBD), Doug out of class
+open studio time to work on Vibe Coding assignment
+
+### Week 10 - 10/29 - Real-time AI with TouchDesigner
+Present vibe coding project
+Intro to TouchDesigner for real-time AI
+AI images with StreamDiffusion
+LLMs with DotSimulates LOPs
+
+### Week 11 - 11/05 - Real-time AI with TouchDesigner continued
+LOPs continued
+Final project assigned
+
+### Week 12 - 11/12 - Final Project Proposal Presentations
+final project proposal presentations
+Open Studio Time
+
+### Week 13 - 11/19 - Open Studio time + Prompt battle
+Work on final projects
+Prompt Battle
+
+### Week 14 - 11/26 - Thanksgiving Break (No Class)  
+### Week 15 - 12/03 - Critique Week (No Class)
+### Week 16 - 12/10 - Final Critiques
+
+
+---
+## SAIC Attendance and Participation Policy
+
+Students are expected to attend all classes regularly and arrive on time. Full participation is required in all aspects of a course—including in-person sessions, synchronous online classes, and  independent  study.
+
+Instructors may permit students up to two absences per semester—inclusive of absences due to illness and/or family/personal emergencies. If a student registers late during the add/drop period, they are responsible for catching up on all missed content and assignments; instructors may count those missed classes as absences. 
+
+Instructors have the discretion to define expectations around student tardiness, including policies related to late arrivals, mid-class breaks, and early departures. These expectations should be clearly outlined in the course syllabus and communicated to students during the first class to ensure transparency and consistency. 
+
+Instructors grant credit only to students who meet the standards and expectations of the course.  
+
+Students who are ill and unable to attend class should notify their instructor(s) by email or leave a message with the department office on the day they are absent. For extended absences due to illness, the student should contact Health Services, who will notify instructors. For other extenuating circumstances, students should reach out to the Academic Advising office. Please note that the written notification does not excuse a student from classes.
+
+Federal Financial Aid Attendance Requirement: Recipients of federal aid must have begun attendance in classes for which their eligibility is based upon at the time of disbursement and, in the case of Federal Direct Loans (Subsidized, Unsubsidized, and PLUS), be enrolled at least half-time.
+
+Religious Holiday Observance: SAIC recognizes the diverse religious and cultural practices of our community. Students are expected to notify their instructors early in the semester to discuss reasonable accommodations for holidays they observe.
+
+## SAIC Audit Policy
+
+SAIC does not generally encourage degree seeking students to audit courses but does permit them to do so in some circumstances. Students are required to meet specific criteria and then additionally have the permission of the faculty to do so. Review the full [Audit Policy](https://www.saic.edu/registration-records/registration/course-audit#chapter=chapter-10237-Instructor-Approval "Link") here. 
+
+1. If you are teaching a **studio course**, students **are not permitted to audit.** Suggested language for your syllabus: 
+
+_**Audit Policy**: Per SAIC’s Policy on non-credit enrollment, auditing this course is not permitted. Students wishing to participate in this course must be enrolled for credit._
+
+## Class Progress Reports (CPRs)
+
+Class Progress Reports (CPRs) are used to communicate between faculty, students, and academic advisors to give feedback on class performance. You may receive a CPR if you have missed class, or missed an assignment, critique, etc. These communications are intended to help you understand what you need to do to stay on track or get back on track and succeed in this class.
+
+##  Accommodations for Students with Disabilities
+
+SAIC is fully committed to complying with all laws ensuring equal opportunities for students with disabilities. Students with known or suspected disabilities are encouraged to contact the Disability and Learning Resource Center (DLRC) to schedule a virtual appointment. During this appointment, DLRC staff will review the student’s documentation and work collaboratively to determine reasonable accommodations.
+
+Once accommodations are approved, the DLRC will email a letter outlining the accommodations to both the student and their instructors. Students should be aware that not all approved accommodations will be applicable to every course. It is recommended that students speak with each instructor to discuss how their accommodations may be applied in the context of each class before they are implemented. To ensure timely support, students should contact the DLRC as early in the semester as possible. The DLRC can be reached via phone at 312.499.4278 or email at dlrc@saic.edu.
+
+## Student Responsibility in the use of Accommodations
+
+Students approved for accommodations through the DLRC are responsible for communicating with their instructors regarding the use and application of those accommodations. The implementation of accommodations requires an interactive process between the student and the instructor to determine how accommodations might be applied in the context of each specific course. Because course content, assignments, and learning objectives vary, accommodations must be considered on a course-by-course basis to ensure that they are both appropriate and do not compromise essential learning outcomes, which students are still expected to meet.
+
+Accommodations do not excuse students from the standard requirements of communication and attendance. If a student needs to miss class or modify participation due to an approved accommodation, they must communicate with the instructor in advance whenever possible. In situations where advance notice is not feasible, students must notify the instructor within 24 hours of the missed class or academic activity. Failure on the student’s part to communicate in a timely manner may result in the inability to apply the accommodation for that specific instance.
+
+## Writing Center
+
+Tutors are available in person and online to help students achieve their writing goals at any stage of their writing process. All students are welcome, and they can work on essays, artist statements, application materials, presentation texts, theses, proposals, creative writing, or social media posts. The Writing Center tutors are kind, encouraging, and interested!
+
+Writing Center Hours (CST):
+Monday – Thursday: 9:15 AM - 7:15 PM and
+Friday: 9:15 AM - 5:15 PM
+
+Though drop-ins are welcome, the best way to guarantee an appointment is to schedule one via Navigate: https://www.saic.edu/academics/writing-center
+
+116 S. Michigan Ave., 10th Floor (Lakeview building)
+Phone: 312-499-4138
+
+## Academic Misconduct
+
+From the [SAIC Student Handbook](https://www.saic.edu/sites/default/files/2024-01/student_handbook.pdf), page 12
+
+Academic misconduct includes both plagiarism and cheating, and may consist of: the submission of the work of another as one’s own; unauthorized assistance (as defined by individual instructors and laid out in the course syllabus) on a test or assignment; submission of the same work for more than one class without the knowledge and consent of all instructors; or the failure to properly cite texts or ideas from other sources. Academic misconduct also includes the falsification of academic or student-related records, such as transcripts, evaluations, and letters of recommendation. 
+
+Academic misconduct extends to all spaces on campus, including satellite locations and online education.
+
+Academic integrity is expected in all coursework, including online learning. It is assumed that the person receiving the credit for the course is the person completing the work. SAIC has processes in place, including LDAP authentication, to verify student identity.
+
+## Support Resources for Students
+
+The Office of Students Affairs is here to help students achieve success in and outside of the classroom and studios. Staff members are available to assist students with a wide-range of issues and concerns, including mental and physical health concerns, food and housing insecurity, conflicts with others, and much more. We are available during typical business hours (9-5pm, Mon-Friday); however, we also have staff available after-hours to address emergency concerns.  
+
+**In case of an emergency, please contact SAIC Campus Security, 24 hours a day, by visiting any campus security desk or calling 312.899.1230. They can assist you and/or connect you with a staff member who can provide support for you.**
+### Food and Housing Resources
+If you have difficulty affording groceries or accessing food every day, and/or do not have a safe and stable place to live, please contact the Office of Student Affairs - (312) 629-6800 / studenthelp@saic.edu during business hours. If you contact them after hours, someone will respond the next business day. You can also find links and resources at this site, curated by Student Affairs: [Student Support Resources and Information](https://www.saic.edu/student-support).
+
+### SAIC Food Pantry
+Spoonful Food Pantry is available to current SAIC students who are experiencing difficulty accessing food because of a financial emergency or ongoing constraints. Students can request a pre-packaged bag of non-perishable groceries (vegan and gluten free available) by completing the online [form](https://docs.google.com/forms/d/e/1FAIpQLSfF4uHeWFVjjkpuzdaDVe1SkmfEnYpdxohx2YbOSxKf4gflEg/viewform). Once approved, students will receive a pre-packaged bag of non-perishable groceries.
+
+### Wellness Center
+The SAIC Wellness Center, which includes Counseling Services, Health Services, and the Disability and Learning Resource Center, is also here to support students' mental health, physical health, and accessibility needs. You may contact them at: 
+
+**Counseling Services:** counselingservices@saic.edu and 312-499-4271 (press 1 to speak to a counselor after hours)
+
+**Health Services:** healthservices@saic.edu and 312-499-4288 (After hours contact the 24-Hour Nurse Line at 877-924-7758)  
+
+**Disability and Learning Resource Center:** dlrc@saic.edu and 312-499-4278
+
+## Ombudsperson
+
+The services of the SAIC Ombudsperson are available to all students, faculty, and staff at SAIC. The Ombuds is a confidential, neutral, independent and informal resource; you may speak with them about any conflict you are encountering at SAIC. The Ombuds will help you explore the conflict and consider options for resolution. To learn more or to contact the Ombuds, visit [saic.edu/ombuds](http://saic.edu/ombuds).
+
+## Statement on Academic Freedom
+
+The School of the Art Institute of Chicago is a community of educators, students, and staff whose artistic, design, and scholarly work is characterized, among others, by an ethos of intellectual and imaginative curiosity; the love and production of knowledge, art, and design; and the joy of creating. This ethos can be sustained, and the above learning goals can be achieved, only in an institutional and cultural framework of academic freedom, freedom of expression, and equality; these are the conditions within which learning, research, and creative output flourish. Such a framework also allows members of communities whose speech has historically been silenced to fully and equally participate in the same free expression that has historically been the privilege of only some segments of society. This framework also helps us navigate through conflict and tension—themselves vital aspects of educational, creative, and intellectual growth—and it helps us differentiate between the concepts of tension or offense on the one hand, and those of harm, discrimination, and harassment on the other.
+
+For the full version of the statement, please visit the [Faculty Resources webpage](https://www.saic.edu/faculty) under Faculty Handbook and Guides > All Faculty. The [statement](https://www.saic.edu/sites/default/files/2025-05/faculty_handbook_supplement_2025.pdf) can be found in Section 9 - STATEMENT ON ACADEMIC FREEDOM AND FREEDOM OF EXPRESSION (page 17).
