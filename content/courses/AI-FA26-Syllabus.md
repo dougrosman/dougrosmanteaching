@@ -14,7 +14,8 @@ date: 2026-08-24
 
 **Time:** Thursdays, 9am-3pm (August 27-December 10)  
 **Instructor:** Douglas Rosman (he/him) (Preferred name: Doug)  
-**Email:** drosma@artic.edu (you can also send me a message in Canvas)  
+**Email:** drosma@artic.edu (you can also send me a message in Canvas)
+**Office Location:** MacLean 405
 **Office Hours:** Available by appointment (send me an email to schedule)  
 
 **TA:** Nickii Schamborski (they/them)  
@@ -62,10 +63,9 @@ AI tools are inherently unpredictable, and the outputs of these models can somet
 
 ## Receiving Credit for this Course
 
-- Complete and present a midterm project
-- Complete and present a final project
+- Complete and present all main projects (Project 1, Project 2, Final Project)
 - Contribute at least 5 items to the class Are.na page
-
+- Satisfy SAIC Attendance requirements (no more than 2 absences)
 ## Being on Time
 
 - Please arrive at 9:00am to give yourself time to settle in
@@ -75,12 +75,11 @@ AI tools are inherently unpredictable, and the outputs of these models can somet
 	- make sure your computer has enough battery, or that your charger is plugged in
 
 ## Course Budget
-$20-60 for various subscriptions to AI platforms
+$50-$150 depending on student interests.
 
 ## Course Materials
 
-[Weekly Materials Google Doc](https://docs.google.com/document/d/1P059I5V2QXJMDkDsl1BTMO0neTq399uON4D15hNTE9U/edit?usp=sharing) - All class material can be found here.
-[Canvas Page](https://saic.instructure.com/courses/7489936) - Assignments will be posted here
+[Canvas Page](https://saic.instructure.com/courses/7955689) - Assignments, readings and all important material will be posted here
 [Are.na](https://www.are.na/) - a space to share interesting references
 
 Although this class will prioritize generative applications of AI, *you are allowed and encouraged to explore any and all things related to AI.* I will do my best to support you all in your specific interests. You are encouraged, but not required to follow all of the in class demos or material we cover. If you know what you want to focus on, go for that.
@@ -88,76 +87,71 @@ Although this class will prioritize generative applications of AI, *you are allo
 ## Texts++
 *All texts/videos will be provided in our Weekly Materials Google Docs, or uploaded to our Canvas Files page. Text excerpts will assigned when appropriate.
 
+- Vector Media (2026), Leonardo Impett, Fabian Offert, Johanna Drucker
+- How to See Like a Machine (2026), Trevor Paglen
 - Medium Hot: Images in the Age of Heat (2025), Hito Steyerl
 - Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence (2022), James Bridle
 - Artificial Intelligence: A Guide for Thinking Humans (2019), Melanie Mitchell
 - https://anatomyof.ai/, Kate Crawford, Vladan Joler
 - Am I Slop? Am I Agentic? Am I Earth? Identity in the Age of Neural Media (2025), K Allado-McDowell
-
 ## Course Schedule
 *Note: there is a ton of possible material we could cover in this class. Below is a loose outline of what I think we should cover in class, but all of this is flexible and open to change based on the interests of the class. There are so many things to include related to AI; resources for other material will be provided as needed.*
 
-### Week 01 - 08/27 - Introductions, what is AI?
+### Module 1 – AI + Images
+#### Week 01 - 08/27 - Introductions, AI + Images
 introductions
 course overview
 set up our tools
-Introduction to Stable Diffusion and ComfyUI for local image generation
-
-### Week 02 - 09/03 - Open + Closed Source Image Making 
+Introduction to Stable Diffusion and ComfyUI for local image and video generation
+#### Week 02 - 09/03 - AI + Images, Video
 History of AI images
 Intermediate tools and workflows with ComfyUI: controlnet, inpainting, outpainting, ipadapter, upscaling
+Local AI video generation (AnimateDiff, Deforum, dedicated video models)
+Realtime AI video with TouchDesigner (if we have time)
+#### Week 03 - 09/10 - Training an image LoRA, 3D Models
+Assembling and creating an image dataset
+Training a LoRA
+Open studio time
+#### Week 04 - 09/17 - Present AI Image/Video Project
+Present Project 1 (AI Image/Video Project)
 
-### Week 03 - 09/10 - AI Video and Audio
-Local open source video with animatediff + controlnet, wan2.2
-Upscaling with Topaz
-Closed source video with Sora, Kling, Veo and Runway
-Audio generation
-
-### Week 04 - 09/17 - AI Video continued with FLORA
-Visiting talk from Ethan Proia of FLORA AI (9:45a CST)
-Work with FLORA
-Midterm assigned
-
-### Week 05 - 09/24 - Open Studio
-Workshop requests
-Open studio time to work on Midterm
-
-### Week 06 - 10/01 - Midterm presentations
-Present midterms
-
-### Week 07 - 10/08 - Large Language Models
+---
+### Module 2 – AI + Text
+#### Week 05 - 09/24 - Intro to LLMs (Large Language Models)
+History of Large Language Models
 Intro to closed source LLMs (ChatGPT, Claude, Gemini, etc.)
 Intro to open source/local LLMs (Ollama)
+#### Week 06 - 10/01 - Vibe Coding part 1
+Setting up an AI-assisted coding environment
+Intro to Markdown, Git, GitHub
+Python Environments explained
+#### Week 07 - 10/08 - Vibe Coding part 2
+Working with APIs
+Skills, MCPs
+#### Week 08 - 10/15 - Present Vibe Coded Project
+Present Project 2 (Vibe coded project)
 
-### Week 08 - 10/15 - Vibe Coding
-Make something through the process of "Vibe Coding"
-
-### Week 09 - 10/22 - Vibe Coding continued
-Substitute (TBD), Doug out of class
+---
+### Module 3 – AI + Agents
+#### Week 09 - 10/22 - Intro to Agents, Setting up Hermes
 open studio time to work on Vibe Coding assignment
-
-### Week 10 - 10/29 - Real-time AI with TouchDesigner
+#### Week 10 - 10/29 - Multi-agent coordination part 1
 Present vibe coding project
 Intro to TouchDesigner for real-time AI
 AI images with StreamDiffusion
 LLMs with DotSimulates LOPs
-
-### Week 11 - 11/05 - Real-time AI with TouchDesigner continued
+#### Week 11 - 11/05 - Multi-agent coordination part 2
 LOPs continued
 Final project assigned
-
-### Week 12 - 11/12 - Final Project Proposal Presentations
+Visiting artist TBD
+#### Week 12 - 11/12 - Final Project Proposal Presentations
 final project proposal presentations
-Open Studio Time
-
-### Week 13 - 11/19 - Open Studio time + Prompt battle
-Work on final projects
-Prompt Battle
-
-### Week 14 - 11/26 - Thanksgiving Break (No Class)  
-### Week 15 - 12/03 - Critique Week (No Class)
-### Week 16 - 12/10 - Final Critiques
-
+Open studio time for final projects
+#### Week 13 - 11/19 - Open Studio time
+Open studio time for final projects
+#### Week 14 - 11/26 - Thanksgiving Break (No Class)  
+#### Week 15 - 12/03 - Critique Week (No Class)
+#### Week 16 - 12/10 - Final Critiques
 
 ---
 ## SAIC Attendance and Participation Policy

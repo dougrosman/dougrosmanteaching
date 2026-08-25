@@ -1,3 +1,59 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// Two-column reference tables where the left column is an example image.
+// Scoped to tables that actually contain an image, so ordinary tables and
+// the frontmatter properties block are untouched.
+article table:has(td img) {
+  table-layout: fixed;
+  width: 100%;
+
+  td:first-child,
+  th:first-child {
+    width: 34%;
+    vertical-align: top;
+  }
+
+  td:last-child {
+    vertical-align: top;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    margin: 0.25rem 0;
+  }
+}
+
+// On narrow screens the two columns stack instead of squeezing the image
+// down to a thumbnail or forcing horizontal scroll on body text.
+@media all and (max-width: 640px) {
+  article table:has(td img) {
+    display: block;
+
+    thead {
+      display: none;
+    }
+
+    tbody,
+    tr,
+    td {
+      display: block;
+      width: 100% !important;
+    }
+
+    tr {
+      padding-bottom: 1rem;
+    }
+
+    td {
+      border: none;
+    }
+
+    tr + tr {
+      border-top: 1px solid var(--lightgray);
+      padding-top: 1rem;
+    }
+  }
+}

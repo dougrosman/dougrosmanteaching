@@ -14,6 +14,7 @@ description: ATSP 3135 Syllabus
 
 **Instructor:** Douglas Rosman (he/him) (Preferred name: Doug)
 **Email:** drosma@artic.edu (you can also send me a message in Canvas)
+**Office Location:** MacLean 405
 **Office Hours:** Available by appointment (send me an email to schedule)
 
 ****
@@ -46,12 +47,9 @@ This studio course investigates the creative possibilities in programming, from 
 
 ## Receiving Credit for this Course
 
-- Complete the "create your homepage" assignment
-- Complete the "teach the class about a p5 library" assignment
-- Complete the "artist research presentation" assignment
-- Complete and present your midterm project
-- Complete and present your final project
-- Contribute at least 4 resources to the class Are.na page
+- Complete all major assignments (Midterm and Final Projects)
+- Satisfy the SAIC attendance policy (miss no more than 2 class sessions)
+- Contribute at least 5 resources to the class Are.na page
 
 Other weekly assignments are strongly encouraged, but not required for course credit
 ## Being on time and ready for class
@@ -63,10 +61,7 @@ Other weekly assignments are strongly encouraged, but not required for course cr
 	- make sure your computer has enough battery, or that your charger is plugged in
 ## Course Materials
 
--  [Weekly Materials Google Doc](https://docs.google.com/document/d/1tzdVcLWBzF3U9T3nsBIJq942TXg0TAe-24SF4QdVeZE/edit?usp=sharing) (everything important for the class, including lecture notes, assignment information, and resources will be added here)
-- https://teaching.dougrosman.com/classes/fall-2026/creative-code/ (class website with resources and assignment descriptions)
-- https://saic.instructure.com/courses/7489900 (class Canvas page. Assignments will be posted here as well)
-- https://www.are.na/doug-rosman/creative-code-fa26 (class collaborative Are.na page)
+- https://saic.instructure.com/courses/7489900 (class Canvas page. Assignments and important material will be posted here)
 
 ## Readings
 
@@ -104,6 +99,7 @@ Particle systems, objects, classes
 ### Week 5 9/23 - OOP part 2: methods and behaviors, randomness and noise
 
 Making objects change over time and interact with the world.
+p5.sound library
 **Assignment:** work on midterm
 
 ### Week 6 9/30 - Midterm open studio time
