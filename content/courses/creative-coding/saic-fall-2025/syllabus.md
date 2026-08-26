@@ -1,20 +1,26 @@
 ---
-title: Syllabus
+title: Syllabus — Interactive Art and Creative Coding — Fall 2025
+course: creative-coding
+institution: SAIC
+semester: Fall
+year: 2025
+description: ATSP 3135 — Interactive Art and Creative Coding — Fall 2025 syllabus
+tags:
 draft: false
-description: ATSP 3135 Syllabus
+publish: true
 ---
-# Syllabus – ATSP 3135 – Interactive Art and Creative Coding – Fall 2026
+
+# Syllabus – ATSP 3135 – Interactive Art and Creative Coding – Fall 2025
 
 **Course Title:** Interactive Art and Creative Coding
-**Semester:** Fall 2026
+**Semester:** Fall 2025
 **Catalog Number:** 3135 | **Class Number:** 1124 | **Section:** 001 | **Credits:** 3
 **Prerequisite:** ATSP 2101 or permission of instructor
 **Location:** MacLean 401
-**Time:** Wednesdays, 9am-3pm (August 26-December 9)
+**Time:** Wednesdays, 9am-3pm (August 27-December 10)
 
 **Instructor:** Douglas Rosman (he/him) (Preferred name: Doug)
 **Email:** drosma@artic.edu (you can also send me a message in Canvas)
-**Office Location:** MacLean 405
 **Office Hours:** Available by appointment (send me an email to schedule)
 
 ****
@@ -47,9 +53,12 @@ This studio course investigates the creative possibilities in programming, from 
 
 ## Receiving Credit for this Course
 
-- Complete all major assignments (Midterm and Final Projects)
-- Satisfy the SAIC attendance policy (miss no more than 2 class sessions)
-- Contribute at least 5 resources to the class Are.na page
+- Complete the "create your homepage" assignment
+- Complete the "teach the class about a p5 library" assignment
+- Complete the "artist research presentation" assignment
+- Complete and present your midterm project
+- Complete and present your final project
+- Contribute at least 4 resources to the class Are.na page
 
 Other weekly assignments are strongly encouraged, but not required for course credit
 ## Being on time and ready for class
@@ -61,7 +70,10 @@ Other weekly assignments are strongly encouraged, but not required for course cr
 	- make sure your computer has enough battery, or that your charger is plugged in
 ## Course Materials
 
-- https://saic.instructure.com/courses/7489900 (class Canvas page. Assignments and important material will be posted here)
+-  [Weekly Materials Google Doc](https://docs.google.com/document/d/1tzdVcLWBzF3U9T3nsBIJq942TXg0TAe-24SF4QdVeZE/edit?usp=sharing) (everything important for the class, including lecture notes, assignment information, and resources will be added here)
+- https://teaching.dougrosman.com/classes/fall-2025/creative-code/ (class website with resources and assignment descriptions)
+- https://saic.instructure.com/courses/7489900 (class Canvas page. Assignments will be posted here as well)
+- https://www.are.na/doug-rosman/creative-code-fa25 (class collaborative Are.na page)
 
 ## Readings
 
@@ -75,74 +87,73 @@ Readings will be uploaded to Canvas, and can be accessed from there.
 
 *The material in this class is subject to change based on the needs and impulses of the class. Assignment details will be published to Canvas when they are assigned.*
 
-### Week 1 8/26 - Introductions + creative code review
+### Week 1 8/27 - Introductions + creative code review
 
 Introductions, course overview, tool setup, intro to HTML and CSS, p5.js review
 **Assignment:** create your home page
 **Read:** *Getting Started with p5.js* 1/Hello, *Code as Creative Medium: A Handbook for Computational Art and Design* Introduction
 
-### Week 2 9/02 - p5.js bootcamp
+### Week 2 9/03 - p5.js bootcamp
 
 Variables, program flow, conditional statements (if-statements), for-loops, functions, mouse input, randomness
 **Assignment:** Iteration sketches
 
-### Week 3 9/09  - Objects, arrays and vectors, state machines
+### Week 3 9/10  - Objects, arrays and vectors, state machines
 
 Creating, accessing and looping through arrays. Using vectors for position. Managing state with "state machines"
 **Assignment:** Conditional testing and state machines
 
-### Week 4 9/16  - OOP (Object Oriented Programming) part 1: classes and object properties
+### Week 4 9/17  - OOP (Object Oriented Programming) part 1: classes and object properties
 
 Particle systems, objects, classes
 **Assignment:** Midterm project proposal (create a living environment populated with entities that interact with each other)
 
-### Week 5 9/23 - OOP part 2: methods and behaviors, randomness and noise
+### Week 5 9/24 - OOP part 2: methods and behaviors, randomness and noise
 
 Making objects change over time and interact with the world.
-p5.sound library
 **Assignment:** work on midterm
 
-### Week 6 9/30 - Midterm open studio time
+### Week 6 10/01 - Midterm open studio time
 
 Open Studio Time
 Make sure midterm project is working with GitHub / GitHub Pages
 **Assignment:** work on midterm
 
-### Week 7 10/07  - Midterm critiques
+### Week 7 10/08  - Midterm critiques
 
 Midterm Critiques
 **Assignment:** artist research presentation
 
-### Week 8 10/14  - Sound in p5.js, 3D in p5.js
+### Week 8 10/15  - Sound in p5.js, 3D in p5.js
 
 Sound synthesis and playback, audio visualization, microphone input, 3D with WebGL in p5.js
 
-### Week 9 10/21  - Expanded interactivity: body tracking with ml5.js
+### Week 9 10/22  - Expanded interactivity: body tracking with ml5.js
 
 Pose, face, body, hand tracking with ml5.js, present artist research project
 **Assignment:** teach the class about a p5.js library
 
-### Week 10 10/28  - Drawing machines, p5.plotSvg and pen plotters
+### Week 10 10/29  - Drawing machines, p5.plotSvg and pen plotters
 
 Code sketching for the pen plotter, working with the p5.plotSvg library, drawing with a pen plotter
 **Assignment:** plot a drawing with the plotter in the io Lab
 
-### Week 11 11/04  - Working with Data / APIs, Final Project Assigned
+### Week 11 11/05  - Working with Data / APIs, Final Project Assigned
 
 Using publicly available data to drive your sketches, present "teach the class about a p5.js library", assign final project
 **Assignment: Final project proposal**
 
-### Week 12 11/11 - Open Studio
+### Week 12 11/12 - Open Studio
 
 Final project proposal presentations, open studio time
 
-### Week 13 11/18  - Open Studio Time
+### Week 13 11/19  - Open Studio Time
 
 Open studio time to work on final projects, decide critique schedule, creative coding beyond p5.js
 
-### Week 14 11/25  - Thanksgiving Break (No Class)
-### Week 15 12/02  - Critique Week (No Class)
-### Week 16 12/09 - Final Project Critiques
+### Week 14 11/26  - Thanksgiving Break (No Class)
+### Week 15 12/03  - Critique Week (No Class)
+### Week 16 12/11 - Final Project Critiques
 
 ---
 ## SAIC Attendance and Participation Policy

@@ -1,8 +1,15 @@
 ---
-title: Grad-Projects-FA26-Syllabus
+title: Syllabus — Graduate Projects — Fall 2026
+course: graduate-projects
+institution: SAIC
+semester: Fall
+year: 2026
+description: MFA 6009-004 — Graduate Projects, Art & Technology / Sound Practices — Fall 2026 syllabus
+tags:
 draft: false
-description: Grad-Projects-FA26-Syllabus
+publish: true
 ---
+
 # Syllabus – ATSP 6009-004 – Grad Projects – Fall 2026
 ## SEMESTER
 

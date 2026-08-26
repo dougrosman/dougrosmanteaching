@@ -1,12 +1,14 @@
 ---
 title: A History of AI Image Generation
-draft: false
+description: An illustrated timeline of machine learning approaches to generating images, from eigenfaces to today's multimodal models
 tags:
   - ai
   - image-generation
   - history
-description: An illustrated timeline of machine learning approaches to generating images, from eigenfaces to today's multimodal models
+last-updated: 2026-08-24
 date: 2026-08-24
+draft: false
+publish: true
 ---
 
 # A History of AI Image Generation
