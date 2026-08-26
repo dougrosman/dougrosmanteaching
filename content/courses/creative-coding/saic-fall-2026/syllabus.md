@@ -54,7 +54,7 @@ This studio course investigates the creative possibilities in programming, from 
 
 ## Receiving Credit for this Course
 
-- Complete all major assignments (Midterm and Final Projects)
+- Complete all required assignments, including a Final Project. All assignments that are required will be clearly listed as "REQUIRED" in Canvas
 - Satisfy the SAIC attendance policy (miss no more than 2 class sessions)
 - Contribute at least 5 resources to the class Are.na page
 
