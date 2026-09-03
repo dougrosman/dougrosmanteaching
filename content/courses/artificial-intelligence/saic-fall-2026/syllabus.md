@@ -68,7 +68,7 @@ AI tools are inherently unpredictable, and the outputs of these models can somet
 
 ## Receiving Credit for this Course
 
-- Complete and present all main projects (Project 1, Project 2, Final Project)
+- Complete all assignments listed as \[REQUIRED\] in Canvas
 - Contribute at least 5 items to the class Are.na page
 - Satisfy SAIC Attendance requirements (no more than 2 absences)
 ## Being on Time
