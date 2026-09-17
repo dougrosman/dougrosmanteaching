@@ -1,3 +1,10 @@
+
+## Meeting 2 - 2026.09.15
+12:10p-1:00p
+
+- https://www.anthropic.com/research/emotion-concepts-function
+- anthropomorphization 
+
 ## Meeting 1 - 2026.09.01
 12:10pm-1:00pm
 
